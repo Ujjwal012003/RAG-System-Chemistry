@@ -32841,5 +32841,6034 @@
     "create_time": 1762888008,
     "update_time": 1762888008,
     "_id": "225adac2d0c87b4bb79b5879f9666ee0"
+  },
+  "af4974c549403f2634ab24243585de99": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/60c40f106f4613a975de843b3e18784aaf9fdde4793a42014a55f00a558d5f4c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          407,
+          1,
+          991,
+          318
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Objectives ",
+        "text_level": 1,
+        "bbox": [
+          72,
+          234,
+          215,
+          270
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "After studying this Unit, you will be able to ",
+        "bbox": [
+          72,
+          276,
+          388,
+          306
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "name alcohols, phenols and ethers according to the IUPAC system of nomenclature; discuss the reactions involved in the preparation of alcohols from alkenes, aldehydes, ketones and carboxylic acids; discuss the reactions involved in the preparation of phenols from haloarenes, benzene sulphonic acids, diazonium salts and cumene; discuss the reactions for preparation of ethers from (i) alcohols and (ii) alkyl halides and sodium alkoxides/aryloxides; correlate physical properties of alcohols, phenols and ethers with their structures; discuss chemical reactions of the three classes of compounds on the basis of their functional groups. ",
+        "bbox": [
+          71,
+          304,
+          390,
+          656
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Alcohols, phenols and ethers are the basic compounds for the formation of detergents, antiseptics and fragrances, respectively. ",
+        "bbox": [
+          407,
+          348,
+          897,
+          376
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "You have learnt that substitution of one or more hydrogen atom(s) from a hydrocarbon by another atom or a group of atoms result in the formation of an entirely new compound having altogether different properties and applications. Alcohols and phenols are formed when a hydrogen atom in a hydrocarbon, aliphatic and aromatic respectively, is replaced by –OH group. These classes of compounds find wide applications in industry as well as in day-to-day life. For instance, have you ever noticed that ordinary spirit used for polishing wooden furniture is chiefly a compound containing hydroxyl group, ethanol. The sugar we eat, the cotton used for fabrics, the paper we use for writing, are all made up of compounds containing -OH groups. Just think of life without paper; no note-books, books, newspapers, currency notes, cheques, certificates, etc. The magazines carrying beautiful photographs and interesting stories would disappear from our life. It would have been really a different world. ",
+        "bbox": [
+          406,
+          397,
+          895,
+          704
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "An alcohol contains one or more hydroxyl (OH) group(s) directly attached to carbon atom(s), of an aliphatic system $\\mathrm { ( C H _ { 3 } O H ) }$ while a phenol contains –OH group(s) directly attached to carbon atom(s) of an aromatic system $\\mathrm { ( C _ { 6 } H _ { 5 } O H ) }$ . ",
+        "bbox": [
+          407,
+          706,
+          895,
+          786
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "The substitution of a hydrogen atom in a hydrocarbon by an alkoxy or aryloxy group (R-O/Ar-O) yields another class of compounds known as 'ethers', for example, $\\mathrm { C H _ { 3 } O C H _ { 3 } }$ (dimethyl ether). You may also visualise ethers as compounds formed by substituting the hydrogen atom of hydroxyl group of an alcohol or phenol by an alkyi or aryl group. ",
+        "bbox": [
+          407,
+          789,
+          895,
+          869
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          177,
+          75,
+          305,
+          178
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          34,
+          267,
+          64,
+          663
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "",
+        "bbox": [
+          300,
+          80,
+          925,
+          113
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "In this unit, we shall discuss the chemistry of three classes of compounds, namely — alcohols, phenols and ethers. ",
+        "bbox": [
+          300,
+          114,
+          925,
+          146
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "The classification of compounds makes their study systematic and hence simpler. Therefore, let us first learn how are alcohols, phenols and ethers classified? ",
+        "bbox": [
+          300,
+          167,
+          927,
+          215
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "7.1.1 Alcohols— Mono, Di, Tri or Polyhydric alcohols ",
+        "bbox": [
+          100,
+          227,
+          276,
+          307
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Alcohols and phenols may be classified as mono-, di-, tri- or polyhydric compounds depending on whether they contain one, two, three or many hydroxyl groups respectively in their structures as given below: ",
+        "bbox": [
+          300,
+          227,
+          927,
+          290
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "CH2OH CH2OH CHOH C2H5OH CH2OH CH2OH Monohydric Dihydric Trihydric Monohydric alcohols may be further classified according to the hybridisation of the carbon atom to which the hydroxyl group is attached. ",
+        "bbox": [
+          328,
+          295,
+          840,
+          385
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "",
+        "bbox": [
+          300,
+          399,
+          928,
+          447
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "(i) Compounds containing $\\mathrm { C } _ { s p ^ { 3 } } { - } \\mathrm { O H }$ bond: In this class of alcohols, the –OH group is attached to an $s p ^ { 3 }$ hybridised carbon atom of an alkyl group. They are further classified as follows: Primary, secondary and tertiary alcohols: In these three types of alcohols, the $- \\mathrm { O H }$ group is attached to primary, secondary and tertiary carbon atom, respectively as depicted below: ",
+        "bbox": [
+          314,
+          455,
+          928,
+          561
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Primary (1°) ",
+        "bbox": [
+          352,
+          608,
+          451,
+          622
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/31b001d7b88da2304d5cd026b54431ff0de5620197253a5b24cce4c44804c6bb.jpg",
+        "image_caption": [
+          "Secondary (2°) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          782,
+          577,
+          871,
+          603
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Tertiary (3°) ",
+        "bbox": [
+          784,
+          608,
+          890,
+          623
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Allylic alcohols: In these alcohols, the —OH group is attached to a $\\bar { s p } ^ { 3 }$ hybridised carbon adjacent to the carbon-carbon double bond, that is to an allylic carbon. For example ",
+        "bbox": [
+          340,
+          641,
+          927,
+          691
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Primary ",
+        "bbox": [
+          394,
+          781,
+          461,
+          795
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Benzylic alcohols: In these alcohols, the —OH group is attached to a $s p ^ { 3 } .$ —hybridised carbon atom next to an aromatic ring. For example. ",
+        "bbox": [
+          340,
+          821,
+          921,
+          869
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 19 ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "discarded",
+        "text": "7.1 Classification ",
+        "bbox": [
+          104,
+          161,
+          265,
+          183
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/1e3929ce5f5404f06f2902ac9bd2f145c69002833376f6d83236e575b16989a9.jpg",
+        "image_caption": [
+          "Primary "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          335,
+          105,
+          473,
+          156
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/9a95bca10efbf1df2c35600dfcefc3c58188afea5e0bb48078d3b8af1d264adf.jpg",
+        "image_caption": [
+          "Secondary "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          505,
+          88,
+          644,
+          161
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/8bccabafe1071a874338692d90b82efbc3ed2d37f2e92963c80bfa5a27568d82.jpg",
+        "image_caption": [
+          "Tertiary "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          668,
+          77,
+          807,
+          161
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Allylic and benzylic alcohols may be primary, secondary or tertiary. ",
+        "bbox": [
+          305,
+          197,
+          892,
+          215
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "(ii) Compounds containing $\\mathrm { C } _ { s p ^ { 2 } } \\mathrm { - O H }$ bond: These alcohols contain —OH group bonded to a carbon-carbon double bond, i.e., to a vinylic carbon or to an aryl carbon. These alcohols are also known as vinylic alcohols. ",
+        "bbox": [
+          307,
+          219,
+          895,
+          285
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Vinylic alcohol: $\\mathrm { C H _ { 2 } } = \\mathrm { C H } - \\mathrm { O H }$ (id:) ",
+        "bbox": [
+          309,
+          288,
+          598,
+          304
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "7.1.2 Phenols— Mono, Di and trihydric phenols ",
+        "bbox": [
+          69,
+          325,
+          236,
+          406
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/b0c5d8b308adb671075a582d08f9272659ab4dcf9f54c0b40a7d677bf67e4c02.jpg",
+        "image_caption": [
+          "Monohydric "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          314,
+          330,
+          369,
+          396
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/9f2966bdff07a1e612f1ac465bb2be32608fb9304db024ac1d00b45e8398a9b3.jpg",
+        "image_caption": [
+          "Monohydric "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          454,
+          336,
+          564,
+          403
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/4c68faccb120112a9f9c9941e94251aeb0a10e5c671f305c4fd1650e8228d68c.jpg",
+        "image_caption": [
+          "Dihydric "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          605,
+          329,
+          699,
+          395
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/95456dbd22eb8466ec8866cbbfcbc35c83ce31b8b2e55c6cc155acd06a09aefe.jpg",
+        "image_caption": [
+          "Trihydric "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          758,
+          308,
+          864,
+          401
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "7.1.3 Ethers ",
+        "bbox": [
+          71,
+          427,
+          204,
+          443
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Ethers are classified as simple or symmetrical, if the alkyl or aryl groups attached to the oxygen atom are the same, and mixed or unsymmetrical, if the two groups are different. Diethyl ether, $\\mathrm { C _ { 2 } H _ { 5 } O C _ { 2 } H _ { 5 } }$ , is a symmetrical ether whereas $\\mathrm { C _ { 2 } H _ { 5 } O C H _ { 3 } }$ and $\\mathrm { C _ { 2 } H _ { 5 } C _ { 6 } H _ { 5 } }$ are unsymmetrical ethers. - ",
+        "bbox": [
+          269,
+          426,
+          899,
+          507
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Intext Questions ",
+        "text_level": 1,
+        "bbox": [
+          605,
+          521,
+          756,
+          539
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "7.1 Classify the following as primary, secondary and tertiary alcohols: ",
+        "bbox": [
+          85,
+          545,
+          736,
+          563
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "CHg   \n(i) CH3− C − CH2OH (i) H2C = CH− CH2OH CH3 OH CH-CHg   \n(i) CH₃-CH2- CH2-OH (iv) CH₃ CH=CH-C-OH   \n(v) CH-CH-CH₃ (vi) CHz OH ",
+        "bbox": [
+          156,
+          570,
+          659,
+          793
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "7.2 Identify allylic alcohols in the above examples. ",
+        "bbox": [
+          90,
+          803,
+          559,
+          821
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "(a) Alcohols: The common name of an alcohol is derived from the common name of the alkyl group and adding the word alcohol to it. For example, $\\mathrm { C H _ { 3 } O H }$ is methyl alcohol. ",
+        "bbox": [
+          265,
+          840,
+          897,
+          890
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "discarded",
+        "text": "195 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          588,
+          900,
+          895,
+          915
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "discarded",
+        "text": "7.2 Nomenclature ",
+        "bbox": [
+          71,
+          836,
+          239,
+          858
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "According to IUPAC system, the name of an alcohol is derived from the name of the alkane from which the alcohol is derived, by substituting 'e' of alkane with the suffix 'ol'. The position of substituents are indicated by numerals. For this, the longest carbon chain (parent chain) is numbered starting at the end nearest to the hydroxyl group. The positions of the $- \\mathrm { O H }$ group and other substituents are indicated by using the numbers of carbon atoms to which these are attached. For naming polyhydric alcohols, the 'e' of alkane is retained and the ending 'ol' is added. The number of -OH groups is indicated by adding the multiplicative prefix, di, tri, etc., before 'ol'. The positions of –OH groups are indicated by appropriate locants, e.g., HO $\\mathrm { \\mathrm { - C H _ { 2 } \\mathrm { - C H _ { 2 } \\mathrm { - O H } } } }$ is named as ethane-1, 2-diol. Table 7.1 gives common and IUPAC names of a few alcohols as examples. ",
+        "bbox": [
+          300,
+          80,
+          927,
+          289
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "table",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/c7b44cb67fbc608e78449aa7b31ae710d439e7a789f3b99a8a3127a0df7cf7d0.jpg",
+        "table_caption": [
+          "Table 7.1: Common and IUPAC Names of Some Alcohols "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Compound</td><td>Common name</td><td>IUPAC name</td></tr><tr><td>CH3 − OH CH3 − CH2 − CH2 − OH CH3− CH − CH3</td><td>Methyl alcohol n-Propyl alcohol Isopropyl alcohol</td><td>Methanol Propan-1-0l Propan-2-ol</td></tr><tr><td>OH CH3 − CH2 − CH2 − CH2 - OH CH3− CH − CH2− CH3 </td><td>( -Butyl alcohol O</td><td>Butan-l-ol</td></tr><tr><td>OH CH₃</td><td>sec-Butyl alcohol</td><td>Butan-2-ol</td></tr><tr><td>CH − CH2-OH CH₃</td><td></td><td>2-Methylpropan-l-ol</td></tr><tr><td>CH3 CH₃-C-OH CH3</td><td>tert-Butyl alcohol</td><td></td></tr></table>",
+        "bbox": [
+          303,
+          321,
+          923,
+          672
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Cyclic alcohols are named using the prefix cyclo and considering the $- \\mathrm { O H }$ group attached to ${ \\bf C } { - } 1$ . ",
+        "bbox": [
+          296,
+          683,
+          925,
+          715
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/40d546d76554be07dfe4e3a5df76c4131620618df78f64c4663c290700137b44.jpg",
+        "image_caption": [
+          "Cyclohexanol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          409,
+          733,
+          503,
+          778
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/fccdb642b8346e43e7f886ff9768de5aff28d4d356098d0cf69fd53c4b9b461d.jpg",
+        "image_caption": [
+          "2-Methylcyclopentanol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          600,
+          719,
+          713,
+          779
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "(b) Phenols: The simplest hydroxy derivative of benzene is phenol. It is its common name and also an accepted IUPAC name. As structure of phenol involves a benzene ring, in its substituted compounds the terms ortho (1,2- disubstituted), meta (1,3-disubstituted) and para (1,4-disubstituted) are often used in the common names. ",
+        "bbox": [
+          298,
+          807,
+          928,
+          887
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 190 ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          983
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/7054db4a43c8643e984eb9b0ed2d10e0696c04bf0b88c04ba5e13c7384ccc41b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          276,
+          81,
+          329,
+          146
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "CHz OH ",
+        "bbox": [
+          413,
+          81,
+          508,
+          146
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/f28a9142e71e57c009a5f54442a25dd0f3be91d2252b14153df30fcfea4f1579.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          590,
+          80,
+          687,
+          154
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Common name IUPAC name ",
+        "text_level": 1,
+        "bbox": [
+          79,
+          177,
+          220,
+          206
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Phenol Phenol ",
+        "bbox": [
+          272,
+          177,
+          333,
+          206
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "CHz OH ",
+        "bbox": [
+          770,
+          80,
+          829,
+          169
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "o-Cresol 2-Methylphenol ",
+        "bbox": [
+          381,
+          177,
+          519,
+          207
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "m-Cresol 3-Methylphenol ",
+        "bbox": [
+          567,
+          177,
+          706,
+          207
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "(cid:) $p$ -Cresol 4-Methylphenol ",
+        "bbox": [
+          750,
+          177,
+          888,
+          207
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Dihydroxy derivatives of benzene are known as 1, 2-, 1, 3- and 1, 4-benzenediol. ",
+        "bbox": [
+          270,
+          221,
+          897,
+          255
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/5257fb88ee45a2d4c18e822fb1ff40cd311ac524084d80e6d5d189fe333bfc05.jpg",
+        "image_caption": [
+          "Catechol Benzene-1,2-diol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          305,
+          270,
+          401,
+          336
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Common name IUPAC name ",
+        "text_level": 1,
+        "bbox": [
+          81,
+          362,
+          213,
+          391
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/a344d37b5c5b03d7706b50c2c3378253e59aa56e07a60c6d65d6cf9848881363.jpg",
+        "image_caption": [
+          "Resorcinol Benzene-1,3-diol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          520,
+          267,
+          619,
+          344
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/2c71aded35cd92e697467e074ab612411937468022c5b84fd6024333a5e97c8c.jpg",
+        "image_caption": [
+          "Hydroquinone or quinol Benzene-1,4-diol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          765,
+          269,
+          868,
+          358
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "(c) Ethers: Common names of ethers are derived from the names of alkyl/ aryl groups written as separate words in alphabetical order and adding the word 'ether at the end. For example, $\\mathrm { C H _ { 3 } O C _ { 2 } H _ { 5 } }$ is ethylmethyl ether. ",
+        "bbox": [
+          267,
+          408,
+          897,
+          456
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "table",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/509b4e3cf6ef3fd5db381828dcb632a7115fc3328f0fc4e73a6a415f0fbee483.jpg",
+        "table_caption": [
+          "Table 7.2: Common and IUPAC Names of Some Ethers "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Compound</td><td>Common name</td><td>IUPAC name</td></tr><tr><td>CH3OCH3</td><td>Dimethyl ether</td><td>Methoxymethane</td></tr><tr><td>C2H5OC2H5</td><td>e Diethyl ether</td><td>Ethoxyethane</td></tr><tr><td>CH3OCH2CH2CH3</td><td>Methyl n-propyl ether</td><td>1-Methoxypropane</td></tr><tr><td>CfH5OCH3</td><td>Methyl phenyl ether (Anisole)</td><td>Methoxybenzene (Anisole)</td></tr><tr><td>CfH5OCH2CH3</td><td>Ethyl phenyl ether (Phenetole)</td><td>Ethoxybenzene</td></tr><tr><td>CfH5O(CH2)6 − CH3</td><td>Heptyl phenyl ether</td><td>1-Phenoxyheptane</td></tr><tr><td>CH3O−CH − CH3</td><td> Methyl isopropyl ether</td><td>2-Methoxypropane</td></tr><tr><td>CH₃ CfH5−O−CH2− CH2 -</td><td>Phenyl isopentyl ether</td><td>3- Methylbutoxybenzene</td></tr><tr><td>OCH3</td><td></td><td>1,2-Dimethoxyethane</td></tr><tr><td>H₃C__CH OC2H5</td><td></td><td>2-Ethoxy- -1, 1-dimethylcyclohexane</td></tr></table>",
+        "bbox": [
+          76,
+          494,
+          890,
+          873
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "discarded",
+        "text": "Alcohols, Phenols and Ethers ",
+        "bbox": [
+          588,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "If both the alkyl groups are the same, the prefix 'di' is added before the alkyl group. For example, $\\mathrm { C _ { 2 } H _ { 5 } O C _ { 2 } H _ { 5 } }$ is diethyl ether. ",
+        "bbox": [
+          300,
+          80,
+          927,
+          112
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "According to IUPAC system of nomenclature, ethers are regarded as hydrocarbon derivatives in which a hydrogen atom is replaced by an —OR or –OAr group, where R and Ar represent alkyl and aryl groups, respectively. The larger (R) group is chosen as the parent hydrocarbon. The names of a few ethers are given as examples in Table 7.2. ",
+        "bbox": [
+          298,
+          113,
+          927,
+          193
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Example 7.1 Give IUPAC names of the following compounds: ",
+        "bbox": [
+          161,
+          215,
+          734,
+          234
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(i) CH3− CH – CH– CH– CH2OH 一 c1 CH_CHg ",
+        "bbox": [
+          293,
+          239,
+          590,
+          286
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(i) CH3 − CH − O− CH2CH3 CHg ",
+        "bbox": [
+          631,
+          241,
+          873,
+          288
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "NO2 (iv) OC_H \\$ ",
+        "bbox": [
+          628,
+          302,
+          774,
+          366
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/80dde7167996081a0b139e2063f6d7d4476be8f3492336987ea6b0d37eee33f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          288,
+          303,
+          454,
+          366
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Solution ",
+        "bbox": [
+          192,
+          371,
+          272,
+          390
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(i) 4-Chloro-2,3-dimethylpentan-1-ol (i) 2-Ethoxypropane (ii) 2,6-Dimethylphenol (iv) 1-Ethoxy-2-nitrocyclohexane ",
+        "bbox": [
+          270,
+          375,
+          920,
+          411
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Intext Question ",
+        "text_level": 1,
+        "bbox": [
+          166,
+          441,
+          310,
+          461
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "7.3 Name the following compounds according to IUPAC system. ",
+        "bbox": [
+          152,
+          466,
+          751,
+          484
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "(i) ",
+        "bbox": [
+          170,
+          514,
+          189,
+          529
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "CH2OH CH3 - CH2 - CH - CH - CH-CH₃ CH2C1 CH3 ",
+        "bbox": [
+          192,
+          489,
+          505,
+          558
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "CH2OH (i) CH3− CH − CH2 − CH − CH − CH3 CH₃ OH ",
+        "bbox": [
+          586,
+          491,
+          883,
+          552
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/7b84b3cce442f69b56c79e0fa9e9a03f08496faeff3fc2266f863fcc85fbbe0c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          161,
+          559,
+          286,
+          633
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "7.3 Structures of   \nfunctional   \nGroups ",
+        "bbox": [
+          100,
+          679,
+          276,
+          747
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "In alcohols, the oxygen of the -OH group is attached to carbon by a sigma $( \\sigma )$ bond formed by the overlap of a $s p ^ { 3 }$ hybridised orbital of carbon with a $s p ^ { 3 }$ hybridised orbital of oxygen. Fig. 7.1 depicts structural aspects of methanol, phenol and methoxymethane. ",
+        "bbox": [
+          298,
+          684,
+          928,
+          750
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/a35cd335b7e3cc9fcbc7fb5b63b4eeaf55c969e89eb84dd4bd48a58100fce6d7.jpg",
+        "image_caption": [
+          "Fig. 7.1: Structures of methanol, phenol and methoxymethane "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          322,
+          757,
+          857,
+          862
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 19o ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "The bond angle $\\operatorname * { \\dot { \\rho } } _ { \\mathrm { ~ \\tiny ~ H ~ } } ^ { : 0 : }$ in alcohols is slightly less than the tetrahedral angle $[ 1 0 9 ^ { \\circ } \\ – 2 8 ^ { \\prime } ]$ . It is due to the repulsion between the unshared electron pairs of oxygen. In phenols, the –OH group is attached to $s p ^ { 2 }$ hybridised carbon of an aromatic ring. The carbon- oxygen bond length $[ 1 3 6 \\ \\mathrm { p m } ]$ in phenol is slightly less than that in methanol. This is due to (i) partial double bond character on account of the conjugation of unshared electron pair of oxygen with the aromatic ring (Section 7.4.4) and (ii) $s p ^ { \\widehat { 2 } }$ hybridised state of carbon to which oxygen is attached. ",
+        "bbox": [
+          267,
+          81,
+          894,
+          239
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "In ethers, the four electron pairs, i.e., the two bond pairs and two lone pairs of electrons on oxygen are arranged approximately in a tetrahedral arrangement. The bond angle is slightly greater than the tetrahedral angle due to the repulsive interaction between the two bulky (-R) groups. The C-O bond length $\\left( 1 4 1 ~ \\mathrm { p m } \\right)$ is almost the same as in alcohols. ",
+        "bbox": [
+          267,
+          242,
+          894,
+          335
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "7.4.1 Preparation of Alcohols ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          350,
+          562,
+          367
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Alcohols are prepared by the following methods: ",
+        "bbox": [
+          269,
+          371,
+          710,
+          387
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "1. From alkenes ",
+        "text_level": 1,
+        "bbox": [
+          270,
+          395,
+          437,
+          410
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "(i) By acid catalysed hydration: Alkenes react with water in the presence of acid as catalyst to form alcohols. In case of unsymmetrical alkenes, the addition reaction takes place in accordance with Markovnikov's rule. ",
+        "bbox": [
+          303,
+          413,
+          894,
+          477
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "OH ",
+        "text_level": 1,
+        "bbox": [
+          611,
+          567,
+          644,
+          581
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Mechanism ",
+        "bbox": [
+          300,
+          582,
+          406,
+          598
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "The mechanism of the reaction involves the following three steps: ",
+        "bbox": [
+          298,
+          602,
+          892,
+          619
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Step 1: Protonation of alkene to form carbocation by electrophilic attack of $\\mathrm { H } _ { 3 } \\mathrm { O } ^ { + }$ . ",
+        "bbox": [
+          298,
+          622,
+          894,
+          654
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/9523ff3abbc99ada1ac346b25c63be94a73c56250c4020d71ba71e445ebab906.jpg",
+        "text": "$$\n\\mathrm { H } _ { 2 } \\mathrm { O } + \\mathrm { H } ^ { + }  \\mathrm { H } _ { 3 } \\mathrm { O } ^ { + }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          371,
+          656,
+          534,
+          676
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/ce9ad28a45eb6b275bef18d3777434ca1a5c6fe88486adce83ae34f512876e6d.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\underset { \\mathrm { \\tiny ~  > c = c < \\tau + \\tau _ { H } } \\mathrm { \\tiny \\ -- ~ } \\mathrm { \\tiny \\ -- ~ } \\mathrm { \\scriptscriptstyle \\mathrm { \\textrm { H } } } } { \\mathrm { \\tiny \\bigcap } } \\underset { \\mathrm { \\tiny \\ -- \\thinspace \\mathrm { \\textrm { H } } } } { \\mathrm { \\tiny \\bigoplus } } \\underset { \\mathrm { \\tiny \\longleftarrow \\thinspace  { - \\textrm { C - C } } \\backslash \\mathrm { \\tiny \\mathrm { \\textrm { + \\cdot \\sum } \\mit ~ } + \\tau _ { H _ { 2 }  \\mathrm {   \\Psi } } } } } { \\mathrm { \\tiny \\bigwedge } }  } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          366,
+          679,
+          777,
+          732
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Step 2: Nucleophilic attack of water on carbocation. ",
+        "bbox": [
+          298,
+          733,
+          772,
+          748
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/0eaf353bc066fdfaceaab812f3a8945794f00cd825647769631c7f879c5f536d.jpg",
+        "text": "$$\n\\begin{array} { r c } { { \\stackrel { \\mathrm { H } } { \\overbrace { \\mathbf { \\Lambda } _ { \\parallel } } } - \\stackrel { \\mathbf { U } } { \\overbrace { \\mathbf { C } _ { \\mathbf { \\Lambda } } ^ { + } \\mathbf { \\Lambda } ^ { + } \\mathbf { \\Sigma } ^ { + } \\mathbf { \\Sigma } ^ { \\bot } } } } } & { { \\stackrel { \\mathrm { H } } { \\overbrace { \\mathbf { \\Lambda } \\longrightarrow \\mathbf { \\Lambda } _ { \\parallel } ^ { \\mathrm { H } } \\mathbf { \\Lambda } _ { \\parallel } ^ { \\mathrm { H } } + \\mathbf { \\Lambda } _ { \\mathrm { H } } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          366,
+          751,
+          736,
+          801
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Step 3: Deprotonation to form an alcohol. ",
+        "bbox": [
+          298,
+          803,
+          680,
+          818
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/3acbefabdb22d0fe0728afeb09a723f0c270728c7bcd0c2cf0df6107d6ef768c.jpg",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { c c } { \\mathrm { H } } & { \\mathrm { H } } \\\\ { \\mathrm { ~ \\overline { { | } } ~ } ^ { \\sharp } | } & { | \\mathrm { \\overline { { | } } ^ { \\ell } ~ \\overline { { | } } ^ { \\ell } ~ } } \\\\ { - \\mathrm { C } _ { \\mathrm { | } } ^ { \\mathrm { ~ - } } \\mathrm { C } _ { \\mathrm { | } } ^ { \\mathrm { ~ - } } \\mathrm { \\overline { { \\diamond } } ^ { \\ell } ~ } \\overset { \\longleftrightarrow } { \\mathrm { H } } } & { + \\mathrm { \\nabla } \\mathrm { H } _ { 2 } \\overset { \\cdot \\ddot { \\bigcirc } } { \\underset { \\ldots } { \\bigodot } }  \\mathrm { ~ \\Gamma } _ { \\mathrm { | } } ^ { \\mathrm { ~ H } } - \\mathrm { C } _ { \\mathrm { | } } ^ { \\mathrm { ~ - } } } & { + \\mathrm { H } _ { 3 } \\mathrm { Q } _ { \\mathrm { \\cdot } } ^ { + } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          366,
+          826,
+          793,
+          878
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "discarded",
+        "text": "199 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          588,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "discarded",
+        "text": "7.4 Alcohols and Phenols ",
+        "bbox": [
+          72,
+          346,
+          239,
+          387
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Hydroboration - oxidation was first reported by H.C. Brown in 1959. For his studies on boron containing organic compounds, Brown shared the 1979 Nobel prize in Chemistry with G. Wittig. ",
+        "bbox": [
+          100,
+          80,
+          282,
+          219
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "(ii) By hydroboration-oxidation: Diborane $\\mathrm { ( B H _ { 3 } ) _ { 2 } }$ reacts with alkenes to give trialkyl boranes as addition product. This is oxidised to alcohol by hydrogen peroxide in the presence of aqueous sodium hydroxide. ",
+        "bbox": [
+          310,
+          79,
+          927,
+          144
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/899fc9fc1a088fca58dfa1959c9174c6a61c5bcfa28146cf48e747e907b923fe.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { C H _ { 3 } } \\mathrm { - C H } _ { 2 } \\mathrm { - } \\mathrm { C H } _ { 2 } \\quad + \\mathrm { ( H \\mathrm { - } B H _ { 2 } ) _ { 2 } } \\quad \\longrightarrow \\quad \\mathrm { C H _ { 3 } } \\mathrm { - } \\mathrm { C H } _ { 2 } \\quad } \\\\ & { \\qquad \\mathrm { ~ I ~ } \\quad \\mathrm { ~ I ~ } } \\\\ & { \\qquad \\mathrm { ~ H ~ } \\quad \\mathrm { B H } _ { 2 } } \\\\ & { \\qquad \\mathrm { ~ \\sqrt { \\mathrm { C H _ { 3 } } } \\mathrm { - } C H \\mathrm { - } C H _ { 2 } } } \\\\ & { \\mathrm { ( C H _ { 3 } \\mathrm { - } C H _ { 2 } \\mathrm { - } C H _ { 2 } ) _ { 3 } B } \\quad \\underbrace { \\mathrm { C H _ { 3 } } \\mathrm { - } \\mathrm { C H } _ { 2 } \\quad \\mathrm { ~ ( C H _ { 3 } \\mathrm { - } C H _ { 2 } \\mathrm { - } C H _ { 2 } ) _ { 2 } B H } } _ { \\mathrm { H _ { 3 } } \\mathrm { - } \\mathrm { C H _ { 2 } } \\mathrm { - } \\mathrm { C H _ { 2 } } \\mathrm { - } \\mathrm { C H _ { 2 } } \\mathrm { - } \\mathrm { C H _ { 2 } } \\mathrm { ~ B H } } } \\\\ & { \\qquad \\mathrm { H _ { 2 } O } \\Bigg \\{ 3 \\mathrm { H _ { 2 } O _ { 2 } } , \\qquad \\mathrm { ~ O H ~ } } \\\\ & { \\qquad \\mathrm { 3 C H _ { 3 } } \\mathrm { - } \\mathrm { C H _ { 2 } } \\mathrm { - } \\mathrm { C H _ { 2 } } \\mathrm { - } \\mathrm { O H } + \\mathrm { \\ B ( O H ) _ { 3 } } } \\\\ & { \\qquad \\mathrm { P r o p a n { - } 1 } \\mathrm { - } \\mathrm { 0 } ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          338,
+          151,
+          805,
+          304
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "The addition of borane to the double bond takes place in such a manner that the boron atom gets attached to the $s p ^ { 2 }$ carbon carrying greater number of hydrogen atoms. The alcohol so formed looks as if it has been formed by the addition of water to the alkene in a way opposite to the Markovnikov's rule. In this reaction, alcohol is obtained in excellent yield. ",
+        "bbox": [
+          340,
+          322,
+          927,
+          419
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "2. From carbonyl compounds ",
+        "text_level": 1,
+        "bbox": [
+          302,
+          427,
+          592,
+          442
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "(i) By reduction of aldehydes and ketones: Aldehydes and ketones are reduced to the corresponding alcohols by addition of hydrogen in the presence of catalysts (catalytic hydrogenation). The usual catalyst is a finely divided metal such as platinum, palladium or nickel. It is also prepared by treating aldehydes and ketones with sodium borohydride $\\mathrm { ( N a B H _ { 4 } ) }$ or lithium aluminium hydride $\\mathrm { ( L i A l H _ { 4 } ) }$ 1. Aldehydes yield primary alcohols whereas ketones give secondary alcohols. ",
+        "bbox": [
+          336,
+          448,
+          928,
+          577
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/cafca8a84d9c6070782c62bc02d841db520b4dd22752f18cb413ecbb55160524.jpg",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { r c l } { { \\mathrm { R } } } & { { + \\mathrm { H _ { 2 } } \\xrightarrow [ ] { } { \\mathrm { P d } } } } & { { \\mathrm { R ~ C H _ { 2 } O H } } } \\\\ { { \\mathrm { R } } } & { { \\mathrm { R ^ { \\prime } } } } & { { \\xrightarrow [ ] { \\mathrm { N a B H _ { 4 } } } \\mathrm { R - C H _ { 2 } ( \\mathrm { R ^ { \\prime } H } ) } } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          423,
+          582,
+          690,
+          656
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "The numbers in front of the reagents along the arrow indicate that the second reagent is added only when the reaction with first is complete. ",
+        "bbox": [
+          100,
+          660,
+          277,
+          757
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "(üi) By reduction of carboxylic acids and esters: Carboxylic acids are reduced to primary alcohols in excellent yields by lithium aluminium hydride, a strong reducing agent. ",
+        "bbox": [
+          331,
+          660,
+          927,
+          709
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/0dc272673e25da67bb5aa5fd432e22652667e5b3f6691d035f75815372c00aed.jpg",
+        "text": "$$\n\\mathbf { R C O O H } \\xrightarrow [ \\mathrm { ( i i ) ~ H _ 2 O } ] { \\mathrm { ( i ) ~ L i A l H _ { 4 } } } \\mathbf { R } \\mathbf { \\bar { \\Gamma } } \\mathbf { \\Gamma } \\mathbf { \\bar { H } } _ { 2 } \\mathbf { O } \\mathbf { \\bar { H } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          421,
+          714,
+          687,
+          756
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "However, $\\mathrm { L i A l H _ { 4 } }$ is an expensive reagent, and therefore, used for preparing special chemicals only. Commercially, acids are reduced to alcohols by converting them to the esters (Section 7.4.4), followed by their reduction using hydrogen in the presence of catalyst (catalytic hydrogenation). ",
+        "bbox": [
+          362,
+          760,
+          927,
+          841
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/42352bd6d7f7ca882b00272797beb259fd131bdfc69448de26daf78831e97dc5.jpg",
+        "text": "$$\n\\mathbf { R C O O H 1 } \\xrightarrow [ \\mathbf { H ^ { + } } ] { \\mathbf { R } \\mathrm { O O R } } \\frac { \\mathbf { H } _ { 2 } } { \\mathbf { C a t a l y s t } } \\mathbf { R C l } _ { 2 } \\boldsymbol { \\Omega } \\mathbf { l } \\cdot \\mathbf { \\Pi }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          395,
+          844,
+          859,
+          883
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 200 ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "3. From Grignard reagents ",
+        "text_level": 1,
+        "bbox": [
+          270,
+          80,
+          541,
+          95
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Alcohols are produced by the reaction of Grignard reagents (Unit 6, Class XIl) with aldehydes and ketones. ",
+        "bbox": [
+          269,
+          100,
+          894,
+          132
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The first step of the reaction is the nucleophilic addition of Grignard reagent to the carbonyl group to form an adduct. Hydrolysis of the adduct yields an alcohol. ",
+        "bbox": [
+          269,
+          135,
+          895,
+          182
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6463c1e640f7a8cb5bac7ce266917c8dda6857f6c4b21af2fb0467a5079b084d.jpg",
+        "text": "$$\n\\begin{array} { r l } { \\xrightarrow { \\mathrm { H _ { 2 } O } } } & { { } \\mathrm { \\Sigma > C - O H ~ + ~ M g ( ~ \\mathrm { ~ \\Sigma ~ } ) X } } \\\\ { \\mathrm { \\Sigma ~ } } & { { } \\mathrm { \\Sigma ~ } _ { \\mathrm { R } } ^ { \\mathrm { I } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          298,
+          266,
+          578,
+          312
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "….(i)) ",
+        "bbox": [
+          857,
+          270,
+          895,
+          286
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The reaction of Grignard reagents with methanal produces a primary alcohol, with other aldehydes, secondary alcohols and with ketones, tertiary alcohols. ",
+        "bbox": [
+          69,
+          317,
+          241,
+          442
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "The overall reactions using different aldehydes and ketones are as follows: ",
+        "bbox": [
+          269,
+          317,
+          895,
+          350
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/0457c9f0d0b7c5161a5a67817e60fd3e727bd2989662be23666f1e22608a51dc.jpg",
+        "text": "$$\n\\mathrm { H C H O } + \\mathrm { R M g } \\mathrm { X }  \\mathrm { R C H _ { 2 } O M g } \\mathrm { X } \\xrightarrow [ ] { \\mathrm { H _ { 2 } O } } \\mathrm { R C H _ { 2 } O H } + \\mathrm { M g } \\mathrm { ( O H ) } \\mathrm { X }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          267,
+          358,
+          784,
+          386
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "You will notice that the reaction produces a primary alcohol with methanal, a secondary alcohol with other aldehydes and tertiary alcohol with ketones. ",
+        "bbox": [
+          267,
+          528,
+          897,
+          575
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Give the structures and IUPAC names of the products expected from the following reactions: ",
+        "bbox": [
+          85,
+          590,
+          701,
+          623
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Example 7.2 ",
+        "text_level": 1,
+        "bbox": [
+          730,
+          590,
+          845,
+          609
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "(a) Catalytic reduction of butanal. (b) Hydration of propene in the presence of dilute sulphuric acid. (c) Reaction of propanone with methylmagnesium bromide followed by hydrolysis. \\~H ",
+        "bbox": [
+          92,
+          626,
+          704,
+          701
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "(a) CH-CH2−CH2−CH2-OH Butan-l-ol ",
+        "bbox": [
+          90,
+          714,
+          312,
+          748
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "(b) CH-CH-CH OH ",
+        "bbox": [
+          342,
+          713,
+          479,
+          748
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Solution ",
+        "bbox": [
+          730,
+          704,
+          810,
+          724
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "2-Methylpropan-2-ol ",
+        "bbox": [
+          534,
+          756,
+          723,
+          774
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "7.4.2 Preparation of Phenols ",
+        "text_level": 1,
+        "bbox": [
+          71,
+          818,
+          250,
+          850
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Phenol, also known as carbolic acid, was first isolated in the early nineteenth century from coal tar. Nowadays, phenol is commercially produced synthetically. In the laboratory, phenols are prepared from benzene derivatives by any of the following methods: ",
+        "bbox": [
+          267,
+          818,
+          895,
+          883
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "discarded",
+        "text": "201 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "1. From haloarenes ",
+        "text_level": 1,
+        "bbox": [
+          302,
+          80,
+          500,
+          95
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Chlorobenzene is fused with NaOH at 623K and 320 atmospheric pressure. Phenol is obtained by acidification of sodium phenoxide so produced (Unit 6, Class XII). ",
+        "bbox": [
+          329,
+          99,
+          925,
+          147
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/479dd0f05340eaa79309676a0e27217c74feb4a1d868e92a560cd2974dd10e14.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          345,
+          155,
+          727,
+          225
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "2. From benzenesulphonic acid ",
+        "text_level": 1,
+        "bbox": [
+          300,
+          239,
+          614,
+          255
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Benzene is sulphonated with oleum and benzene sulphonic acid so formed is converted to sodium phenoxide on heating with molten sodium hydroxide. Acidification of the sodium salt gives phenol. ",
+        "bbox": [
+          331,
+          258,
+          927,
+          307
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/5d8e695db4e26bb812b065563cd7de4c04bc468bff733bf58763094c9650e432.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          357,
+          315,
+          756,
+          385
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "3. From diazonium salts ",
+        "text_level": 1,
+        "bbox": [
+          300,
+          399,
+          548,
+          415
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "A diazonium salt is formed by treating an aromatic primary amine with nitrous acid $\\mathrm { ( N a N O _ { 2 } + H C l ) }$ at 273-278 K. Diazonium salts are hydrolysed to phenols by warming with water or by treating with dilute acids (Unit 9, Class XI). ",
+        "bbox": [
+          329,
+          419,
+          927,
+          484
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/9293bf96b46aaeaf91d0bb952ed38f8f9b2b2529c709496497677b774248d168.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          355,
+          494,
+          847,
+          609
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Most of the worldwide production of phenol is from cumene. ",
+        "bbox": [
+          102,
+          616,
+          282,
+          658
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "4. From cumene ",
+        "text_level": 1,
+        "bbox": [
+          302,
+          622,
+          465,
+          637
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Phenol is manufactured from the hydrocarbon, cumene. Cumene (isopropylbenzene) is oxidised in the presence of air to cumene hydroperoxide. It is converted to phenol and acetone by treating it with dilute acid. Acetone, a by-product of this reaction, is also obtained in large quantities by this method. ",
+        "bbox": [
+          329,
+          641,
+          928,
+          723
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "CH\\$ CH CHz-CH CH-C-O-O-H OH \\$f frac{}\\$ + CH2COCH3 Cumene Cumene hydroperoxide ",
+        "bbox": [
+          361,
+          730,
+          815,
+          846
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ZO ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "7.4 Show how are the following alcohols prepared by the reaction of a suitable Grignard reagent on methanal ? ",
+        "bbox": [
+          83,
+          114,
+          781,
+          146
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "CH2OH (ii) ",
+        "bbox": [
+          461,
+          144,
+          583,
+          207
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6fac1382eb374bbc179cfe7f94f90946921b7f723afa7fd69e5601b9b81abe7c.jpg",
+        "text": "$$\n\\begin{array} { c } { { \\mathrm { C H _ { 3 } { - } C H { - } C H _ { 2 } O H } } } \\\\ { { \\mathrm { \\Delta C H _ { 3 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          180,
+          158,
+          329,
+          200
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "7.5 Write structures of the products of the following reactions: ",
+        "bbox": [
+          88,
+          210,
+          675,
+          228
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "(i) $\\mathrm { { C H } _ { 3 } - \\mathrm { { C H } = \\mathrm { { C H } _ { 2 } \\xrightarrow { \\mathrm { { H } _ { 2 } O / H ^ { + } } } } } }$ O CH2−C −OCH₃   \n(i) ö NaBH4   \n(i) CH₃—CH2—CH—CHO NaBH,d CH₃ ",
+        "bbox": [
+          142,
+          235,
+          486,
+          390
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "7.4.3 Physical Properties ",
+        "text_level": 1,
+        "bbox": [
+          69,
+          417,
+          237,
+          450
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Alcohols and phenols consist of two parts, an alkyl/aryl group and a hydroxyl group. The properties of alcohols and phenols are chiefly due to the hydroxyl group. The nature of alkyl and aryl groups simply modify these properties. ",
+        "bbox": [
+          267,
+          418,
+          895,
+          482
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Boiling Points ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          484,
+          411,
+          501
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "The boiling points of alcohols and phenols increase with increase in the number of carbon atoms (increase in van der Waals forces). In alcohols, the boiling points decrease with increase of branching in carbon chain (because of decrease in van der Waals forces with decrease in surface area). - ",
+        "bbox": [
+          267,
+          503,
+          895,
+          582
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "The -OH group in alcohols and phenols is involved in intermolecular hydrogen bonding as shown below: ",
+        "bbox": [
+          269,
+          586,
+          895,
+          618
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "R H-OR cd:) R-O—H H R H H H-O…H-O…H-O ",
+        "bbox": [
+          312,
+          628,
+          812,
+          760
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "It is interesting to note that boiling points of alcohols and phenols are higher in comparison to other classes of compounds, namely hydrocarbons, ethers, haloalkanes and haloarenes of comparable molecular masses. For example, ethanol and propane have comparable molecular masses but their boiling points differ widely. The boiling point of methoxymethane is intermediate of the two boiling points. ",
+        "bbox": [
+          267,
+          771,
+          897,
+          868
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "discarded",
+        "text": "203 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "discarded",
+        "text": "Intext Questions ",
+        "bbox": [
+          633,
+          90,
+          784,
+          110
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "H H C H C CH3 ",
+        "bbox": [
+          753,
+          79,
+          876,
+          154
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "CH3CH2 H ",
+        "bbox": [
+          355,
+          110,
+          468,
+          151
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "H C CH3 ",
+        "bbox": [
+          545,
+          110,
+          663,
+          151
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Ethanol Molecular mass/b.p. 46/351K ",
+        "bbox": [
+          324,
+          156,
+          494,
+          201
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Methoxymethane Molecular mass/b.p. 46/248K ",
+        "bbox": [
+          527,
+          158,
+          697,
+          201
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Propane Molecular mass/b.p. 44/231K ",
+        "bbox": [
+          744,
+          159,
+          914,
+          201
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "The high boiling points of alcohols are mainly due to the presence of intermolecular hydrogen bonding in them which is lacking in ethers and hydrocarbons. ",
+        "bbox": [
+          298,
+          215,
+          927,
+          262
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Solubility ",
+        "text_level": 1,
+        "bbox": [
+          300,
+          266,
+          394,
+          281
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Solubility of alcohols and phenols in water is due to their ability to form hydrogen bonds with water molecules as shown. The solubility decreases with increase in size of alkyl/aryl (hydrophobic) groups. Several of the lower molecular mass alcohols are miscible with water in all proportions. ",
+        "bbox": [
+          298,
+          283,
+          651,
+          410
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6350f28dade75565fa54397d27295a7c2b8e05337aec651ef15231fe90b50a39.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          689,
+          276,
+          928,
+          403
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Example 7.3 Arrange the following sets of compounds in order of their increasing boiling points: (a) Pentan-1-ol, butan-1-ol, butan-2-ol, ethanol, propan-1-ol, methanol. (b) Pentan-1-ol, n-butane, pentanal, ethoxyethane. Solution (a) Methanol, ethanol, propan-1-o1, butan-2-ol, butan-1-ol, pentan-1-ol. (b) n-Butane, ethoxyethane, pentanal and pentan-1-ol. ",
+        "bbox": [
+          149,
+          427,
+          911,
+          543
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "7.4.4 Chemical Reactions ",
+        "text_level": 1,
+        "bbox": [
+          102,
+          570,
+          267,
+          600
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Alcohols are versatile compounds. They react both as nucleophiles and electrophiles. The bond between $\\mathrm { O - H }$ is broken when alcohols react as nucleophiles. ",
+        "bbox": [
+          296,
+          570,
+          927,
+          617
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Alcohols as nucleophiles $\\textcircled { 1 } \\stackrel { \\cdot } { \\mathrm { R } \\mathrm { - } \\stackrel { \\cdot } { \\cdot } } \\stackrel { \\cdot } { \\cdot } \\stackrel { \\cdot } { \\cdot } + \\stackrel { \\cdot } { \\zeta } - \\longrightarrow \\stackrel { \\cdot \\mathrm { H } \\mathrm { ~ - } \\stackrel { \\cdot } { \\mathrm { O } } \\mathrm { - } \\stackrel { \\cdot } { \\mathrm { C } } \\mathrm { - } } { \\cdot \\cdot } \\longrightarrow \\mathrm { R } \\mathrm { - } \\mathrm { O } \\mathrm { - } \\stackrel { \\cdot } { \\mathrm { C } } - \\mathrm { \\Lambda } \\stackrel { \\cdot } { \\mathrm { H } } ^ { + }$ ",
+        "bbox": [
+          121,
+          619,
+          914,
+          668
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Protonated alcohols as electrophiles ",
+        "bbox": [
+          105,
+          730,
+          440,
+          747
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "(ii) The bond between ${ \\mathrm { C } } { \\mathrm { - } } { \\mathrm { O } }$ is broken when they react as electrophiles. Protonated alcohols react in this manner. ",
+        "bbox": [
+          385,
+          678,
+          925,
+          711
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/694bdfeeb18ae6deb754062cc16fcf26f178ccbbb65cf9d1f46727b26617c8fa.jpg",
+        "text": "$$\n\\begin{array} { r l r } {  { \\operatorname { R - C H } _ { 2 ^ { - } } \\mathrm { O H } + \\mathrm { H } \\to \\operatorname { R - C H } _ { 2 ^ { - } } \\mathrm { O H } _ { 2 } } } \\\\ & { \\underset { \\mathrm { B F } \\phantom { \\operatorname { C H } + \\sum _ { \\alpha } ^ { } } + \\mathrm { \\Delta } _ { \\mathrm { C H } _ { 2 } \\ - \\bigcirc } \\mathrm { H } _ { 2 } ^ { + } } { \\operatorname { C H } } \\longrightarrow \\mathrm { B } _ { 1 - } \\mathrm { C H } _ { 2 } + \\mathrm { \\Delta } _ { \\mathrm { H } _ { 2 } \\mathrm { O } } } \\\\ & { \\underset { \\mathrm { \\Delta } } { \\mathrm { \\mathrm { \\mathrm { \\mathrm { \\mathrm { \\mathrm { \\sc ~ \\chi } H } } } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          519,
+          720,
+          857,
+          812
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Based on the cleavage of $\\mathrm { O - H }$ and ${ \\mathrm { C } } { \\mathrm { - } } { \\mathrm { O } }$ bonds, the reactions of alcohols and phenols may be divided into two groups: ",
+        "bbox": [
+          335,
+          826,
+          927,
+          860
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ",
+        "bbox": [
+          102,
+          900,
+          243,
+          915
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "(a) Reactions involving cleavage of O-H bond ",
+        "text_level": 1,
+        "bbox": [
+          267,
+          80,
+          704,
+          96
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "1. Acidity of alcohols and phenols (i) Reaction with metals: Alcohols and phenols react with active metals such as sodium, potassium and aluminium to yield corresponding alkoxides/phenoxides and hydrogen. ",
+        "bbox": [
+          269,
+          103,
+          588,
+          118
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "",
+        "bbox": [
+          305,
+          125,
+          897,
+          173
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/9d45491c6c6bcd4f8e5f1844feb88db5b7a82524efc93631b8d1be19b7dec4f1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          387,
+          178,
+          826,
+          427
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "In addition to this, phenols react with aqueous sodium hydroxide to form sodium phenoxides. ",
+        "bbox": [
+          329,
+          434,
+          897,
+          466
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "OH ONa + NaOH + H2O Sodium phenoxide ",
+        "bbox": [
+          390,
+          473,
+          706,
+          559
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "The above reactions show that alcohols and phenols are acidic in nature. In fact, alcohols and phenols are Brönsted acids i.e., they can donate a proton to a stronger base (B:). ",
+        "bbox": [
+          324,
+          568,
+          895,
+          617
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "B: + Y-Ö-R- →B-H + ∴-R Base Acid Conjugate Conjugate acid base ",
+        "bbox": [
+          387,
+          622,
+          772,
+          687
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "(ii) Acidity of alcohols: The acidic character of alcohols is due to the polar nature of $\\mathrm { O - H }$ bond. An electron-releasing group (cid:) $\\mathrm { \\left( - C H _ { 3 } \\right. }$ , $\\mathrm { - C _ { 2 } H _ { 5 } ) }$ increases electron density on oxygen tending to   \n- decrease the polarity of $\\mathrm { O - H }$ bond. This decreases the acid strength. For this reason, the acid strength of alcohols decreases in the following order: ",
+        "bbox": [
+          300,
+          692,
+          895,
+          789
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/7846569921782185bb40b6ecda2298a03eb6d93bbcbf57f23fda223a76bcedc3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          390,
+          793,
+          777,
+          863
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "discarded",
+        "text": "205 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "text",
+        "text": "Alcohols are, however, weaker acids than water. This can be illustrated by the reaction of water with an alkoxide. ",
+        "bbox": [
+          362,
+          80,
+          927,
+          112
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "$\\begin{array} { r l r l r } { \\mathrm { R } { - } \\overleftarrow { \\dot { \\Omega } } _ { * } ^ { * } } & { { } { + } } & { \\mathrm { H } { - } \\overleftrightarrow { \\dot { \\Omega } } { - } \\mathrm { H } { \\longrightarrow } \\mathrm { R } { - } \\mathrm { O } { - } \\mathrm { H } } & { { } { + } } & { { \\vdots } \\overleftrightarrow { \\dot { \\Omega } } \\mathrm { H } } \\end{array}$ Base Acid Conjugate Conjugatt acid base ",
+        "bbox": [
+          395,
+          117,
+          769,
+          174
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "This reaction shows that water is a better proton donor (i.e., stronger acid) than alcohol. Also, in the above reaction, we note that an alkoxide ion is a better proton acceptor than hydroxide ion, which suggests that alkoxides are stronger bases (sodium ethoxide is a stronger base than sodium hydroxide). ",
+        "bbox": [
+          362,
+          179,
+          927,
+          260
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "Alcohols act as Bronsted bases as well. It is due to the presence of unshared electron pairs on oxygen, which makes them proton acceptors. ",
+        "bbox": [
+          362,
+          261,
+          927,
+          309
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "(ii) Acidity of phenols: The reactions of phenol with metals (e.g., sodium, aluminium) and sodium hydroxide indicate its acidic nature. The hydroxyl group, in phenol is directly attached to the $s p ^ { 2 }$ hybridised carbon of benzene ring which acts as an electron withdrawing group. Due to this, the charge distribution in phenol molecule, as depicted in its resonance structures, causes the oxygen of -OH group to be positive. ",
+        "bbox": [
+          328,
+          312,
+          927,
+          426
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/8cb080c78bccf660a674470864c5133f3b5217117767f0bbeebfa4518b48287b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          329,
+          443,
+          907,
+          529
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "The reaction of phenol with aqueous sodium hydroxide indicates that phenols are stronger acids than alcohols and water. Let us examine how a compound in which hydroxyl group attached to an aromatic ring is more acidic than the one in which hydroxyl group is attached to an alkyl group. ",
+        "bbox": [
+          361,
+          535,
+          927,
+          616
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "The ionisation of an alcohol and a phenol takes place as follows: ",
+        "bbox": [
+          361,
+          619,
+          925,
+          636
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "R-O-H=sR-O=+H+ OH + H+ ",
+        "bbox": [
+          392,
+          645,
+          694,
+          747
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "Due to the higher electronegativity of $s p ^ { 2 }$ hybridised carbon of phenol to which $- \\mathrm { O H }$ is attached, electron density decreases on oxygen. This increases the polarity of $\\mathrm { O - H }$ bond and results in an increase in ionisation of phenols than that of alcohols. Now let us examine the stabilities of alkoxide and phenoxide ions. In alkoxide ion, the negative charge is localised on oxygen while in phenoxide ion, the charge is delocalised. The delocalisation of negative charge (structures I-V makes phenoxide ion more stable and favours the ionisation of phenol. Although there is also charge delocalisation in phenol, its resonance structures have charge separation due to which the phenol molecule is less stable than phenoxide ion. ",
+        "bbox": [
+          361,
+          755,
+          927,
+          886
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 206 ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          983
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "text",
+        "text": "",
+        "bbox": [
+          331,
+          80,
+          897,
+          145
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/83952ec35cc8a10a2cadf7c8e21d5b48dcbb8d119f12e78da32d169e6a0f32b8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          324,
+          158,
+          892,
+          264
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "In substituted phenols, the presence of electron withdrawing groups such as nitro group, enhances the acidic strength of phenol. This effect is more pronounced when such a group is present at ortho and para positions. It is due to the effective delocalisation of negative charge in phenoxide ion when substituent is at ortho or para position. On the other hand, electron releasing groups, such as alkyl groups, in general, do not favour the formation of phenoxide ion resulting in decrease in acid strength. Cresols, for example, are less acidic than phenol. ",
+        "bbox": [
+          331,
+          275,
+          897,
+          415
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "The greater the $ { \\mathrm { p } } K _ { a }$ value, the weaker the acid. ",
+        "bbox": [
+          71,
+          428,
+          243,
+          470
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "table",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6bf7dbe4586f7723890ba050c3b1a29ac326118895788e662b7d6a48dd66ccec.jpg",
+        "table_caption": [
+          "Table 7.3: $ { \\mathbf { p } }  { \\mathbf { K } } _ { a }$ Values of some Phenols and Ethanol "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Compound</td><td>Formula</td><td>pKa</td></tr><tr><td>o-Nitrophenol</td><td>0-O2N-C6H4-OH</td><td>7.2</td></tr><tr><td>m-Nitrophenol</td><td>m-O2N-C6H4-OH</td><td>8.3</td></tr><tr><td>p-Nitrophenol</td><td>p-O2N-CfH4-OH</td><td>7.1</td></tr><tr><td>Phenol</td><td>CfH5-OH</td><td>10.0</td></tr><tr><td>o-Cresol</td><td>0-CH3-C6H4-OH</td><td>10.2</td></tr><tr><td>m-Cresol</td><td>m-CH3C6H4-OH</td><td>10.1</td></tr><tr><td>p-Cresol</td><td>p-CH3−C6H4-OH</td><td>10.2</td></tr><tr><td>Ethanol bere</td><td>C2H5OH</td><td>15.9</td></tr></table>",
+        "bbox": [
+          272,
+          455,
+          890,
+          668
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "From the above data, you will note that phenol is million times more acidic than ethanol. ",
+        "bbox": [
+          298,
+          676,
+          899,
+          709
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Arrange the following compounds in increasing order of their acid strength: Example 7.4 Propan-1-ol, 2,4,6-trinitrophenol, 3-nitrophenol, 3,5-dinitrophenol, phenol, 4-methylphenol. ",
+        "bbox": [
+          85,
+          727,
+          855,
+          780
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Propan-1-ol, 4-methylphenol, phenol, 3-nitrophenol, 3,5-dinitrophenol, Solution 2,4, 6-trinitrophenol. ",
+        "bbox": [
+          83,
+          786,
+          809,
+          820
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "2. Esterification ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          835,
+          437,
+          852
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Alcohols and phenols react with carboxylic acids, acid chlorides and acid anhydrides to form esters. ",
+        "bbox": [
+          295,
+          855,
+          895,
+          887
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "discarded",
+        "text": "207 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/e07b83a1e3fd77acea7c37caa34f4598a7d904cbb8a47e254d90093f819e27f1.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { A r / R O H } + \\mathrm { R ^ { \\prime } } - \\mathrm { C O O H } \\xrightarrow [ ] { \\mathrm { H _ { > } ^ { * } } } \\mathrm { A r / R O C O R ^ { \\prime } } + \\mathrm { H _ { 2 } O } } \\\\ & { \\mathrm { A r / R - O H } + ( \\mathrm { R ^ { \\prime } C O } ) _ { 2 } \\ O \\xrightarrow [ ] { \\mathrm { H _ { > } ^ { * } } } \\mathrm { A r / R O C O R ^ { * } } \\mathrm { R / C O O H } } \\\\ & { \\mathrm { R / A r O H } + \\mathrm { R ^ { \\prime } C O C l } \\xrightarrow [ ] { \\mathrm { P y r i d i n e } }  \\mathrm { R / A r O C O R } + \\mathrm { H C l } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          420,
+          80,
+          843,
+          178
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Aspirin possesses analgesic, antiinflammatory and antipyretic properties. ",
+        "bbox": [
+          100,
+          193,
+          269,
+          253
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "The reaction with carboxylic acid and acid anhydride is carried out in the presence of a small amount of concentrated sulphuric acid. The reaction is reversible, and therefore, water is removed as soon as it is formed. The reaction with acid chloride is carried out in the presence of a base (pyridine) so as to neutralise HCl which is formed during the reaction. It shifts the equilibrium to the right hand side. The introduction of acetyl $\\mathrm { ( C H _ { 3 } C O ) }$ group in alcohols or phenols is known as acetylation. Acetylation of salicylic acid produces aspirin. - ",
+        "bbox": [
+          331,
+          184,
+          928,
+          322
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "COOH COOH OH OCOCH3 + (CH3CO)2O H + CHgCOC Salicylic acid Acetylsalicylic acid (Aspirin) ",
+        "bbox": [
+          359,
+          327,
+          873,
+          427
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "(b) Reactions involving cleavage of carbon – oxygen (C-O) bond in alcohols ",
+        "bbox": [
+          296,
+          432,
+          927,
+          464
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "The reactions involving cleavage of $\\mathrm { C } { \\mathrm { - } } \\mathrm { O }$ bond take place only in alcohols. Phenols show this type of reaction only with zinc. ",
+        "bbox": [
+          328,
+          468,
+          925,
+          501
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "1. Reaction with hydrogen halides: Alcohols react with hydrogen halides to form alkyl halides (Refer Unit 6, Class XII). ",
+        "bbox": [
+          300,
+          506,
+          925,
+          538
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/f86e08698b0efbd715c4611211c86ae4d488b78e08bfe26f78b24e91a936ccf0.jpg",
+        "text": "$$\n\\mathrm { R O H + H X }  \\mathrm { R - X + H _ { 2 } O }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          423,
+          540,
+          649,
+          559
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "The difference in reactivity of three classes of alcohols with HCl distinguishes them from one another (Lucas test). Alcohols are soluble in Lucas reagent (conc. HCl and $\\mathrm { Z n C l _ { 2 } } )$ while their halides are immiscible and produce turbidity in solution. In case of tertiary alcohols, turbidity is produced immediately as they form the halides easily. Primary alcohols do not produce turbidity at room temperature. ",
+        "bbox": [
+          321,
+          559,
+          927,
+          653
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "2. Reaction with phosphorus trihalides: Alcohols are converted to alkyl bromides by reaction with phosphorus tribromide (Refer Unit 6, Class XII). ",
+        "bbox": [
+          302,
+          659,
+          927,
+          706
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "3. Dehydration: Alcohols undergo dehydration (removal of a molecule of water) to form alkenes on treating with a protic acid e.g., concentrated $\\mathrm { H _ { 2 } S O _ { 4 } }$ or $\\mathrm { H _ { 3 } P O _ { 4 } }$ , or catalysts such as anhydrous zinc chloride or alumina. ",
+        "bbox": [
+          300,
+          713,
+          927,
+          774
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/639783a7802521422b910a0aaf9268ee59bc06f8bb30aa064c0e3f79d75d0629.jpg",
+        "text": "$$\n\\frac { - c - c - } { 1 } \\mathrm { ~ \\frac { ~ i ~ } { ~ i ~ } ~ } \\mathrm { ~ \\frac { ~ H ^ { + } ~ } { ~ H e a t } ~ } \\mathrm { ~ { ~ \\it ~ \\cdot ~ } ~ } \\mathrm { ~ { ~ \\it ~ \\cdot ~ } ~ } \\mathrm { C = C _ { \\setminus } ^ { \\prime } + H _ { 2 } O ~ }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          418,
+          780,
+          736,
+          822
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Ethanol undergoes dehydration by heating it with concentrated $\\mathrm { H _ { 2 } S O _ { 4 } }$ at $4 4 3 \\ \\mathrm { K }$ . ",
+        "bbox": [
+          329,
+          825,
+          925,
+          855
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/aa7163fbde534c6c39f63b82a83fc85cb736c030c2eb6aae86b6e8ea1ea1c27b.jpg",
+        "text": "$$\n\\mathrm { C _ { 2 } H _ { 5 } O H \\frac { H _ { 2 } S O _ { 4 } } { 4 4 3 \\mathrm { K } } }  \\mathrm { C H _ { 2 } } = \\mathrm { C H _ { 2 } } + \\mathrm { H _ { 2 } O }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          397,
+          855,
+          720,
+          889
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 208 ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Secondary and tertiary alcohols are dehydrated under milder conditions. For example ",
+        "bbox": [
+          296,
+          80,
+          897,
+          112
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/644b6e43f4e67563c5181ef4b845cf47f2e3de7629bec471e09ab84b216031a9.jpg",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { O H } } & { \\xrightarrow { \\mathrm { O H } } \\mathrm { O H } \\mathrm { C E H } _ { 3 } \\xrightarrow { 8 5 \\% \\mathrm { H } _ { 3 } \\mathrm { P O } _ { 4 } } \\mathrm { C H } _ { 3 } - \\mathrm { C H } = \\mathrm { C H } _ { 2 } + \\mathrm { H } _ { 2 } \\mathrm { O } } \\\\ & { \\qquad \\mathrm { C H } _ { 3 } } \\\\ { \\mathrm { C H } _ { 3 } - \\mathrm { C - O H } } & { \\xrightarrow { \\mathrm { C H } _ { 3 } \\mathrm { P O } _ { 4 } } \\mathrm { C H } _ { 3 } - \\mathrm { C - C H } _ { 3 } + \\mathrm { H } _ { 2 } \\mathrm { O } } \\\\ & { \\qquad \\mathrm { C H } _ { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          362,
+          119,
+          769,
+          233
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Thus, the relative ease of dehydration of alcohols follows the following order: ",
+        "bbox": [
+          300,
+          235,
+          895,
+          269
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "The mechanism of dehydration of ethanol involves the following steps: ",
+        "bbox": [
+          324,
+          294,
+          894,
+          311
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Tertiary carbocations are more stable and   \ntherefore are easier to form than secondary and primary   \ncarbocations; tertiary alcohols are the easiest to dehydrate. ",
+        "bbox": [
+          69,
+          318,
+          244,
+          441
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Mechanism ",
+        "bbox": [
+          269,
+          318,
+          373,
+          332
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Step 1: Formation of protonated alcohol. ",
+        "bbox": [
+          267,
+          340,
+          631,
+          357
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Step 2: Formation of carbocation: It is the slowest step and hence, the rate determining step of the reaction. ",
+        "bbox": [
+          269,
+          457,
+          897,
+          491
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Step 3: Formation of ethene by elimination of a proton. ",
+        "bbox": [
+          267,
+          552,
+          756,
+          568
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "The acid used in step 1 is released in step 3. To drive the equilibrium to the right, ethene is removed as it is formed. ",
+        "bbox": [
+          267,
+          654,
+          895,
+          688
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "4. Oxidation: Oxidation of alcohols involves the formation of a carbonoxygen double bond with cleavage of an O-H and C-H bonds. ",
+        "bbox": [
+          269,
+          693,
+          894,
+          727
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Such a cleavage and formation of bonds occur in oxidation reactions. These are also known as dehydrogenation reactions as these involve loss of dihydrogen from an alcohol molecule. Depending on the oxidising agent used, a primary alcohol is oxidised to an aldehyde which in turn is oxidised to a carboxylic acid. ",
+        "bbox": [
+          298,
+          781,
+          897,
+          863
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "discarded",
+        "text": "209 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "H OH RCH2OH Oxidation R-C=O →R-C=O Aldehyde Carboxylic acid ",
+        "bbox": [
+          392,
+          85,
+          802,
+          151
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Strong oxidising agents such as acidified potassium permanganate are used for getting carboxylic acids from alcohols directly. $\\mathrm { C r O } _ { 3 }$ in anhydrous medium is used as the oxidising agent for the isolation of aldehydes. ",
+        "bbox": [
+          331,
+          159,
+          928,
+          223
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/c0f2f54001375cd11c6a2e5dd71db6cce8a02e674673889bc92a359b6a699549.jpg",
+        "text": "$$\n\\mathrm { R C H } _ { 2 } \\mathrm { O H } \\xrightarrow { \\mathrm { C r O } _ { 3 } } \\mathrm { R C H O }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          394,
+          230,
+          623,
+          256
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "A better reagent for oxidation of primary alcohols to aldehydes in good yield is pyridinium chlorochromate (PCC), a complex of chromium trioxide with pyridine and HCl. ",
+        "bbox": [
+          329,
+          261,
+          928,
+          309
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/b369ed214d14ed6e0c864a6ff4cf6b11ceedc109d3ca585f55ae91f350f808d4.jpg",
+        "text": "$$\n\\mathrm { C H } _ { 3 } - \\mathrm { C H } = \\mathrm { C H } - \\mathrm { C H } _ { 2 } \\mathrm { O H } \\xrightarrow { \\mathrm { P C C } } \\mathrm { C H } _ { 3 } - \\mathrm { C H } = \\mathrm { C H } - \\mathrm { C H O }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          394,
+          317,
+          892,
+          341
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Secondary alcohols are oxidised to ketones by chromic anhyride $\\mathrm { ( C r O _ { 3 } ) }$ . ",
+        "bbox": [
+          329,
+          346,
+          927,
+          378
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "R-CH-R CrO3 R−C−R OH 0 Sec- alcohol Ketone ",
+        "bbox": [
+          394,
+          382,
+          671,
+          445
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Tertiary alcohols do not undergo oxidation reaction. Under strong reaction conditions such as strong oxidising agents $\\mathrm { ( K M n O _ { 4 } ) }$ and elevated temperatures, cleavage of various C-C bonds takes place ",
+        "bbox": [
+          329,
+          452,
+          927,
+          501
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "and a mixture of carboxylic acids containing lesser number of carbon atoms is formed. ",
+        "bbox": [
+          329,
+          501,
+          607,
+          548
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "when the vapours of a primary or a secondary alcohol are passed over heated copper at 573 K, dehydrogenation takes place and an aldehyde or a ketone is formed while tertiary alcohols undergo dehydration. ",
+        "bbox": [
+          329,
+          552,
+          607,
+          665
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6423cb7f192f352957ee8627843b8ea386b49a43ab70bfffead8cadfe454cffc.jpg",
+        "text": "$$\n\\mathrm { C H _ { 3 } } - \\underset { \\mathrm { C H _ { 3 } } } { \\overset { \\mathrm { C H _ { 3 } } } { \\longrightarrow } } ~ \\frac { \\mathrm { C u } } { { \\overset { \\mathrm { C } H } { \\longrightarrow } } \\mathrm { C H _ { 3 } } - \\mathrm { C } - \\mathrm { C H _ { 2 } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          625,
+          604,
+          930,
+          665
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Biological oxidation of methanol and ethanol in the body produces the corresponding aldehyde followed by the acid. At times the alcoholics, by mistake, drink ethanol, mixed with methanol also called denatured alcohol. In the body, methanol is oxidised first to methanal and then to methanoic acid, which may cause blindness and death. A methanol poisoned patient is treated by giving intravenous infusions of diluted ethanol. The enzyme responsible for oxidation of aldehyde (HCHO) to acid is swamped allowing time for kidneys to excrete methanol. ",
+        "bbox": [
+          204,
+          696,
+          899,
+          801
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "(c) Reactions of phenols ",
+        "text_level": 1,
+        "bbox": [
+          300,
+          841,
+          539,
+          858
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Following reactions are shown by phenols only. ",
+        "bbox": [
+          329,
+          862,
+          751,
+          878
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ZIO ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "1. Electrophilic aromatic substitution ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          80,
+          645,
+          95
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "In phenols, the reactions that take place on the aromatic ring are electrophilic substitution reactions (Unit 9, Class XI). The –OH group attached to the benzene ring activates it towards electrophilic substitution. Also, it directs the incoming group to ortho and para positions in the ring as these positions become electron rich due to the resonance effect caused by –OH group. The resonance structures are shown under acidity of phenols. ",
+        "bbox": [
+          300,
+          99,
+          895,
+          210
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Common electrophilic aromatic substitution reactions taking place in phenol are as follows: ",
+        "bbox": [
+          296,
+          215,
+          894,
+          244
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "2, 4, 6 - Trinitrophenol is a strong acid due to the presence of three electron withdrawing $- N O _ { 2 }$ groups which facilitate the release of hydrogen ion. ",
+        "bbox": [
+          67,
+          585,
+          243,
+          691
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "(i) Nitration: With dilute nitric acid at low temperature (298 K), phenol yields a mixture of ortho and para nitrophenols. ",
+        "bbox": [
+          305,
+          248,
+          894,
+          281
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/93c4f7eb7634882d4ae51b64564961a7135c1b1224920ece09495c22cdcdeec5.jpg",
+        "image_caption": [
+          "$p$ -Nitrophenol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          359,
+          288,
+          779,
+          382
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "The ortho and para isomers can be separated by steam distillation. $o$ -Nitrophenol is steam volatile due to intramolecular hydrogen bonding while $p$ -nitrophenol is less volatile due to intermolecular hydrogen bonding which causes the association of molecules. ",
+        "bbox": [
+          331,
+          397,
+          897,
+          478
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/b52c20207d5d79011f61ee7243c3fe9dc9f988f6049fdded68f97521f6a69854.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          361,
+          483,
+          449,
+          566
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/47b625220ecf0935ae97e14d77dea636a11bf0f8a39d42064610e3d248f203cc.jpg",
+        "image_caption": [
+          "p-Nitrophenol (Intermolecular H-bonding) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          480,
+          498,
+          845,
+          556
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "o-Nitrophenol (Intramolecular H-bonding) ",
+        "bbox": [
+          331,
+          568,
+          458,
+          612
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "with concentrated nitric acid, phenol is converted to 2,4,6-trinitrophenol. The product is commonly known as picric acid. The yield of the reaction product is poor. ",
+        "bbox": [
+          329,
+          619,
+          899,
+          668
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/39fcad29afc7e0f8266aec66a06d955459fcddbc4b5acf547e7e42577d8a7618.jpg",
+        "image_caption": [
+          "2,4,6-Trinitrophenol (Picric acid) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          355,
+          673,
+          675,
+          765
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Nowadays picric acid is prepared by treating phenol first with concentrated sulphuric acid which converts it to phenol-2,4-disulphonic acid, and then with concentrated nitric acid to get 2,4,6-trinitrophenol. Can you write the equations of the reactions involved? ",
+        "bbox": [
+          331,
+          798,
+          895,
+          878
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          983
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "discarded",
+        "text": "Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "(ii Halogenation: On treating phenol with bromine, different reaction products are formed under different experimental conditions. ",
+        "bbox": [
+          328,
+          80,
+          927,
+          112
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "(a) when the reaction is carried out in solvents of low polarity such as $\\mathrm { C H C l } _ { 3 }$ or $\\mathrm { C S _ { 2 } }$ and at low temperature, monobromophenols are formed. ",
+        "bbox": [
+          359,
+          116,
+          927,
+          164
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/add2241378bc929961d3de82f5e62c0dfd81a73b519e6a30c275000d3e249f23.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          394,
+          173,
+          717,
+          279
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "The usual halogenation of benzene takes place in the presence of a Lewis acid, such as $\\mathrm { F e B r _ { 3 } }$ (Unit 6, Class XII), which polarises the halogen molecule. In case of phenol, the polarisation of bromine molecule takes place even in the absence of Lewis acid. It is due to the highly activating effect of –OH group attached to the benzene ring. ",
+        "bbox": [
+          392,
+          288,
+          928,
+          385
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "(b) when phenol is treated with bromine water, 2,4,6-tribromophenol is formed as white precipitate. ",
+        "bbox": [
+          361,
+          387,
+          927,
+          419
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/8c774531f6da2d4ea4fb8b2f24bc48654d02b07ab27ef0b103e97685a9f35760.jpg",
+        "image_caption": [
+          "2,4,6- Tribromophenol "
+        ],
+        "image_footnote": [],
+        "bbox": [
+          394,
+          428,
+          776,
+          517
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Example 7.5 Write the structures of the major products expected from the following reactions: ",
+        "bbox": [
+          168,
+          549,
+          914,
+          584
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "(a) Mononitration of 3-methylphenol (b) Dinitration of 3-methylphenol (c) Mononitration of phenyl methanoate. ",
+        "bbox": [
+          298,
+          588,
+          664,
+          645
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Solution The combined influence of $- \\mathrm { O H }$ and $\\mathrm { - C H _ { 3 } }$ groups determine the position of the incoming group. ",
+        "bbox": [
+          211,
+          651,
+          911,
+          684
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/51cb8ca84d5d842f65c7a500969cc6ab9839005411571c3940611c0a809e73b5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          171,
+          690,
+          906,
+          786
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "2. Kolbe's reaction ",
+        "bbox": [
+          300,
+          793,
+          480,
+          807
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Phenoxide ion generated by treating phenol with sodium hydroxide is even more reactive than phenol towards electrophilic aromatic substitution. Hence, it undergoes electrophilic substitution with carbon dioxide, a weak electrophile. Ortho hydroxybenzoic acid is formed as the main reaction product. ",
+        "bbox": [
+          329,
+          811,
+          927,
+          891
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6e9a4869f86c146e3d8ebd874a892f8a3f342fcc6fa6e3912ea616e60ed97942.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          314,
+          79,
+          753,
+          174
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "3. Reimer-Tiemann reaction ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          179,
+          552,
+          196
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "On treating phenol with chloroform in the presence of sodium hydroxide, a –CHO group is introduced at ortho position of benzene ring. This reaction is known as Reimer - Tiemann reaction. ",
+        "bbox": [
+          298,
+          198,
+          897,
+          247
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "The intermediate substituted benzal chloride is hydrolysed in the presence of alkali to produce salicylaldehyde. ",
+        "bbox": [
+          291,
+          251,
+          897,
+          284
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/e95ae9be8d41d8682a0c723b17f68eb341bad58addb0f5dfd22142ae90698d90.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          182,
+          293,
+          895,
+          390
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "4. Reaction of phenol with zinc dust ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          400,
+          637,
+          418
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Phenol is converted to benzene on heating with zinc dust. ",
+        "bbox": [
+          293,
+          422,
+          805,
+          438
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/0b8fa626538324f5b96ffd30416232c7bb2a90eced4db594ab83189e89e61cd4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          312,
+          443,
+          642,
+          510
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "5.Oxidation ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          521,
+          399,
+          536
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Oxidation of phenol with chromic acid produces a conjugated diketone known as benzoquinone. In the presence of air, phenols are slowly oxidised to dark coloured mixtures containing quinones. ",
+        "bbox": [
+          298,
+          542,
+          614,
+          639
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/edc722a67ab9adb22f3ffaa25d451d4cf1e6990d220d0f54d98889f519682317.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          628,
+          563,
+          862,
+          655
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "benzoquinone ",
+        "bbox": [
+          781,
+          660,
+          897,
+          674
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Intexct Questions ",
+        "text_level": 1,
+        "bbox": [
+          644,
+          695,
+          793,
+          714
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "7.6 Give structures of the products you would expect when each of the following alcohol reacts with (a) HCl $\\mathrm { - } Z \\mathrm { n C l _ { 2 } }$ (b) HBr and (c) $\\mathrm { { S O C l } _ { 2 } }$ . ",
+        "bbox": [
+          104,
+          716,
+          777,
+          748
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(i) Butan-1-o1 (ii) 2-Methylbutan-2-0l ",
+        "bbox": [
+          152,
+          751,
+          666,
+          767
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "7.7 Predict the major product of acid catalysed dehydration of ",
+        "bbox": [
+          109,
+          771,
+          692,
+          788
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(i) 1-methylcyclohexanol and (ii) butan-1-0l ",
+        "bbox": [
+          140,
+          790,
+          585,
+          806
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "7.8 Ortho and para nitrophenols are more acidic than phenol. Draw the resonance structures of the corresponding phenoxide ions. ",
+        "bbox": [
+          107,
+          809,
+          795,
+          841
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "7.9 Write the equations involved in the following reactions: ",
+        "bbox": [
+          102,
+          846,
+          652,
+          862
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "(i) Reimer - Tiemann reaction (ii) Kolbe's reaction ",
+        "bbox": [
+          130,
+          866,
+          631,
+          881
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "discarded",
+        "text": "213 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          895,
+          915
+        ],
+        "page_idx": 20
+      },
+      {
+        "type": "text",
+        "text": "Methanol and ethanol are among the two commercially important alcohols. ",
+        "bbox": [
+          298,
+          80,
+          927,
+          112
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "1. Methanol ",
+        "text_level": 1,
+        "bbox": [
+          302,
+          119,
+          425,
+          135
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Methanol, $\\mathrm { C H _ { 3 } O H }$ , also known as 'wood spirit', was produced by destructive distillation of wood. Today, most of the methanol is produced by catalytic hydrogenation of carbon monoxide at high pressure and temperature and in the presence of $\\mathrm { Z n O \\mathrm { ~ - ~ } C r _ { 2 } O _ { 3 } }$ catalyst. ",
+        "bbox": [
+          329,
+          140,
+          927,
+          221
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/89892389685675ca1f30c634ffc7849eb9c40ceee62c1a1f9edd622d4eb269a8.jpg",
+        "text": "$$\n\\mathrm { C O } + 2 \\mathrm { H _ { 2 } } \\frac { \\mathrm { Z n O - C r _ { 2 } O _ { 3 } } } { 2 0 0 - 3 0 0 \\mathrm { a t m } } \\mathrm { \\Omega } ^ { } \\mathrm { C H _ { 3 } } \\mathrm { \\Omega } ^ { \\mathrm { H } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          359,
+          228,
+          647,
+          275
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Ingestion of ethanol acts on the central nervous system. In moderate amounts, it affects judgment and lowers inhibitions. Higher concentrations cause nausea and loss of consciousness. Euen at higher concentrations, it interferes with spontaneous respiration and can be fatal. ",
+        "bbox": [
+          100,
+          599,
+          286,
+          798
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Methanol is a colourless liquid and boils at $3 3 7 ~ \\mathrm { K }$ It is highly poisonous in nature. Ingestion of even small quantities of methanol can cause blindness and large quantities causes even death. Methanol is used as a solvent in paints, varnishes and chiefly for making formaldehyde. ",
+        "bbox": [
+          331,
+          278,
+          927,
+          360
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "2. Ethanol ",
+        "text_level": 1,
+        "bbox": [
+          300,
+          372,
+          411,
+          387
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Ethanol, $\\mathrm { C _ { 2 } H _ { 5 } O H }$ , is obtained commercially by fermentation, the oldest method is from sugars. The sugar in molasses, sugarcane or fruits such as grapes is converted to glucose and fructose, (both of which have the formula $\\mathrm { C _ { 6 } H _ { 1 2 } O _ { 6 } ) }$ , in the presence of an enzyme, invertase. Glucose and fructose undergo fermentation in the presence of another enzyme, zymase, which is found in yeast. ",
+        "bbox": [
+          331,
+          391,
+          927,
+          491
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/4fa119cca2166090a47533fb6feda014980e7cf4a8c61ce490e5bdbf98b0abfd.jpg",
+        "text": "$$\n\\mathrm { \\Delta C _ { 1 2 } H _ { 2 2 } O _ { 1 1 } + H _ { 2 } O \\xrightarrow { \\mathrm { \\ I n v e r t a s e { \\Sigma } } } C _ { 6 } H _ { 1 2 } O _ { 6 } \\Sigma + \\Delta C _ { 6 } H _ { 1 2 } O _ { 6 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          347,
+          500,
+          795,
+          522
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "In wine making, grapes are the source of sugars and yeast. As grapes ripen, the quantity of sugar increases and yeast grows on the outer skin. When grapes are crushed, sugar and the enzyme come in contact and fermentation starts. Fermentation takes place in anaerobic conditions i.e. in absence of air. Carbon dioxide is released during fermentation. ",
+        "bbox": [
+          331,
+          582,
+          928,
+          682
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "The action of zymase is inhibited once the percentage of alcohol formed exceeds 14 percent. If air gets into fermentation mixture, the oxygen of air oxidises ethanol to ethanoic acid which in turn destroys the taste of alcoholic drinks. ",
+        "bbox": [
+          331,
+          686,
+          927,
+          752
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Ethanol is a colourless liquid with boiling point 351 K. It is used as a solvent in paint industry and in the preparation of a number of carbon compounds. The commercial alcohol is made unfit for drinking by mixing in it some copper sulphate (to give it a colour) and pyridine (a foul smelling liquid). It is known as denaturation of alcohol. ",
+        "bbox": [
+          331,
+          756,
+          927,
+          839
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "Nowadays, large quantities of ethanol are obtained by hydration of ethene (Section 7.4). ",
+        "bbox": [
+          329,
+          843,
+          928,
+          876
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ZI ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "discarded",
+        "text": "7.5 Some Commercially Important Alcohols ",
+        "bbox": [
+          102,
+          79,
+          272,
+          164
+        ],
+        "page_idx": 21
+      },
+      {
+        "type": "text",
+        "text": "7.6.1 Preparation of Ethers ",
+        "text_level": 1,
+        "bbox": [
+          71,
+          112,
+          248,
+          144
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Diethyl ether has been used widely as an   \ninhalation anaesthetic. But due to its slow   \neff ect and an   \nunpleasant recovery period, it has been   \nreplaced, as an   \nanaesthetic, by other compounds. ",
+        "bbox": [
+          71,
+          253,
+          239,
+          406
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Alexander William Williamson (1824-1904) was born in London of Scottish parents. In 1849, he became Professor of Chemistry at University College, London. ",
+        "bbox": [
+          69,
+          764,
+          251,
+          885
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "1. By dehydration of alcohols ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          112,
+          565,
+          128
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Alcohols undergo dehydration in the presence of protic acids $\\mathrm { ( H _ { 2 } S O _ { 4 } }$ , $\\mathrm { H } _ { 3 } \\mathrm { P O } _ { 4 } )$ ). The formation of the reaction product, alkene or ether depends on the reaction conditions. For example, ethanol is dehydrated to ethene in the presence of sulphuric acid at $4 4 3 \\ \\mathrm { K }$ At $4 1 3 \\ \\mathrm { K }$ , ethoxyethane is the main product. ",
+        "bbox": [
+          300,
+          132,
+          895,
+          213
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/ddd2c1d2cd1d19c3601bdd781ac74677389a3f0b5811b07023be04fd02f49a67.jpg",
+        "text": "$$\n\\mathrm { \\Sigma E H _ { 3 } C H _ { 2 } O H \\longrightarrow \\left[ \\begin{array} { l } { \\mathrm { \\Sigma A _ { 2 } S O _ { 4 } } } \\\\ { \\mathrm { \\Sigma 4 4 3 \\mathrm { \\AA } } } \\\\ { } \\\\ { \\mathrm { \\Sigma A _ { 2 } S O _ { 4 } } } \\\\ { \\mathrm { \\Sigma 4 1 3 \\mathrm { \\AA } } } \\end{array} \\right] \\Sigma C H _ { 5 } O C _ { 2 } H _ { 5 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          326,
+          219,
+          703,
+          323
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "The formation of ether is a nucleophilic bimolecular reaction $\\textstyle { ( \\ S _ { \\mathrm { N } } 2 ) }$ (cid:) involving the attack of alcohol molecule on a protonated alcohol, as indicated below: ",
+        "bbox": [
+          300,
+          331,
+          897,
+          378
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/434dd9a09adf76fe7137c95fc7337100c9c27c9e4687534eedee26e8a9c1cb03.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { \\Lambda ( c a t e a \\ D e t o w : } } \\\\ & { \\mathrm { C H _ { 3 } { - } C H _ { 2 } { - } \\bar { \\ O } { - } H \\ + \\quad \\ H ^ { + } \\ \\longrightarrow \\ C H _ { 3 } { - } C H _ { 2 } \\bar { - } \\bar { \\ O } { - } H } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          333,
+          369,
+          706,
+          408
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Acidic dehydration of alcohols, to give an alkene is also associated with substitution reaction to give an ether. ",
+        "bbox": [
+          298,
+          528,
+          895,
+          558
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "The method is suitable for the preparation of ethers having primary alkyl groups only. The alkyl group should be unhindered and the temperature be kept low. Otherwise the reaction favours the formation of alkene. The reaction follows $\\mathrm { S } _ { \\mathrm { N } } 1$ pathway when the alcohol is secondary or tertiary about which you will learn in higher classes. However, the dehydration of secondary and tertiary alcohols to give corresponding ethers is unsuccessful as elimination competes over substitution and as a consequence, alkenes are easily formed. ",
+        "bbox": [
+          300,
+          562,
+          895,
+          692
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Can you explain why is bimolecular dehydration not appropriate for the preparation of ethyl methyl ether? ",
+        "bbox": [
+          298,
+          695,
+          895,
+          728
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "2. williamson synthesis ",
+        "text_level": 1,
+        "bbox": [
+          270,
+          734,
+          510,
+          751
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "It is an important laboratory method for the preparation of symmetrical and unsymmetrical ethers. In this method, an alkyl halide is allowed to react with sodium alkoxide. ",
+        "bbox": [
+          298,
+          755,
+          895,
+          803
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/abb1eb9f3be1fecd9054915f1bced69718cc668f7441065ced440798e8a98220.jpg",
+        "text": "$$\n\\mathrm { R } { - } \\mathrm { X } + \\mathrm { R } { - } \\overleftarrow { \\dot { \\Omega } } \\ \\mathrm { N a } \\qquad \\quad \\mathrm { R } { - } \\overleftarrow { \\dot { \\Omega } } { - } \\mathrm { R } ^ { \\prime } + \\mathrm { N a } \\mathrm { ~ X ~ }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          329,
+          807,
+          670,
+          830
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "text",
+        "text": "Ethers containing substituted alkyl groups (secondary or tertiary) may also be prepared by this method. The reaction involves $\\mathrm { S } _ { \\mathrm { N } } 2$ attack of an alkoxide ion on primary alkyl halide. ",
+        "bbox": [
+          298,
+          838,
+          895,
+          886
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "discarded",
+        "text": "7.6 Ethers ",
+        "bbox": [
+          71,
+          80,
+          178,
+          99
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "discarded",
+        "text": "215 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          895,
+          915
+        ],
+        "page_idx": 22
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/50eeb80214ff1273e38ccbaeafc78ea8bef69d2e270f38c430b6bc1c3a0ed952.jpg",
+        "text": "$$\n\\begin{array} { r }  \\begin{array} { c } { \\overrightarrow { \\mathrm { { C H } _ { 3 } } } } \\\\ { \\mathrm { { C H _ { 3 } } - \\underbrace { \\mathrm { { C } - \\overbrace { \\mathrm { { \\Lambda } } \\overrightarrow { \\mathrm { { C } } } \\mathrm { { \\Lambda } } \\tilde { \\mathrm { { C } } } } } } _ { \\mathrm { { C } } \\mathrm { { { H } _ { 3 } } } } + \\ \\overbrace { \\mathrm { { C } } \\mathrm { { H } _ { \\mathrm { { \\Lambda } } } } \\mathrm { { - B r } } } ^ { \\mathrm { { C } } } \\longrightarrow \\mathrm { { C H _ { \\mathrm { { \\Lambda } } } } - \\overbrace { \\mathrm { { \\Lambda } } } \\underbrace { \\mathrm { { \\Lambda } } \\overbrace { \\mathrm { { \\Lambda } } } \\mathrm { { - \\Lambda } } \\mathrm { { C } } \\mathrm { { - } } \\mathrm { { C } } \\mathrm { { H _ { \\mathrm { { \\Lambda } } } } } } _ { \\mathrm { { C } } \\mathrm { { H _ { \\mathrm { { 3 } } } } } } \\ + \\ \\mathrm { { \\Lambda } } \\mathrm { { N a B r } } } \\end{array} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          361,
+          84,
+          824,
+          142
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "Better results are obtained if the alkyl halide is primary. In case of secondary and tertiary alkyl halides, elimination competes over substitution. If a tertiary alkyl halide is used, an alkene is the only reaction product and no ether is formed. For example, the reaction of $\\mathrm { C H _ { 3 } O N a }$ with $\\mathrm { ( C H _ { 3 } ) _ { 3 } C \\cdot }$ —Br gives exclusively 2-methylpropene. ",
+        "bbox": [
+          329,
+          147,
+          930,
+          229
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/50ed06a9153e28541a8be15b8805708542dec656bdb9dd332455885c80d91906.jpg",
+        "text": "$$\n\\begin{array} { r } { \\begin{array} { r } { \\mathrm { C H _ { 3 } } } \\\\ { \\mathrm { C H _ { 3 } - C - B r + N a \\overset { - } { \\mathrm { Q } } - C H _ { 3 } \\longrightarrow C H _ { 3 } - C = C H _ { 2 } + N a B r \\ + C H _ { 3 } O H } } \\\\ { \\mathrm { C H _ { 3 } } } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          345,
+          234,
+          845,
+          297
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "2-Methylpropene ",
+        "text_level": 1,
+        "bbox": [
+          590,
+          299,
+          730,
+          316
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "It is because alkoxides are not only nucleophiles but strong bases as well. They react with alkyl halides leading to elimination reactions. ",
+        "bbox": [
+          328,
+          323,
+          928,
+          357
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "Example 7.6 ",
+        "text_level": 1,
+        "bbox": [
+          164,
+          381,
+          282,
+          401
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "The following is not an appropriate reaction for the preparation of t-butyl ethyl ether. ",
+        "bbox": [
+          291,
+          382,
+          906,
+          417
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "(i) What would be the major product of this reaction ? ",
+        "bbox": [
+          305,
+          500,
+          810,
+          516
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "(ii Write a suitable reaction for the preparation of t-butylethyl ether. ",
+        "bbox": [
+          296,
+          519,
+          901,
+          536
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "Solution ",
+        "bbox": [
+          203,
+          544,
+          282,
+          565
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "(i) The major product of the given reaction is 2-methylprop- 1-ene. It is because sodium ethoxide is a strong nucleophile as well as a strong base. Thus elimination reaction predominates over substitution. ",
+        "bbox": [
+          305,
+          547,
+          901,
+          610
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "Phenols are also converted to ethers by this method. In this, phenol is used as the phenoxide moiety. ",
+        "bbox": [
+          326,
+          714,
+          925,
+          747
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/86ab98a22093ce603f76cfe2daa08b453048243d60544a42eef35e50ba6ee793.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          345,
+          753,
+          696,
+          836
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 23
+      },
+      {
+        "type": "text",
+        "text": "7.6.2 Physical Properties ",
+        "text_level": 1,
+        "bbox": [
+          71,
+          80,
+          237,
+          112
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The C-O bonds in ethers are polar and thus, ethers have a net dipole moment. The weak polarity of ethers do not appreciably affect their boiling points which are comparable to those of the alkanes of comparable molecular masses but are much lower than the boiling points of alcohols as shown in the following cases: ",
+        "bbox": [
+          267,
+          79,
+          897,
+          160
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "table",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/6c2c45a62e3d3a1d4f68f802377456d70594faf41af826e042c03a781a2d9fc1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Formula</td><td>CH3(CH2)3CH3 n-Pentane</td><td>C2H5-O-C2H5 Ethoxyethane</td><td>CH3(CH2)3-OH Butan-l-ol</td></tr><tr><td>b.p./K</td><td>309.1</td><td>307.6</td><td>390</td></tr></table>",
+        "bbox": [
+          267,
+          167,
+          855,
+          225
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The large difference in boiling points of alcohols and ethers is due to the presence of hydrogen bonding in alcohols. ",
+        "bbox": [
+          269,
+          233,
+          895,
+          266
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The miscibility of ethers with water resembles those of alcohols of the same molecular mass. Both ethoxyethane and butan-l-ol are miscible to almost the same extent i.e., 7.5 and $9 \\mathrm { \\ : g \\ : }$ per $1 0 0 ~ \\mathrm { { m L } }$ water, respectively while pentane is essentially immiscible with water. Can you explain this observation ? This is due to the fact that just like alcohols, oxygen of ether can also form hydrogen bonds with water molecule as shown: ",
+        "bbox": [
+          267,
+          269,
+          897,
+          381
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "7.6.3 Chemical Reactions ",
+        "text_level": 1,
+        "bbox": [
+          71,
+          448,
+          234,
+          480
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "1. Cleavage of C-0 bond in ethers ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          445,
+          611,
+          461
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Ethers are the least reactive of the functional groups. The cleavage of C-O bond in ethers takes place under drastic conditions with excess of hydrogen halides. The reaction of dialkyl ether gives two alkyl halide molecules. ",
+        "bbox": [
+          298,
+          465,
+          897,
+          529
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/768cc1468e43ab39c000bd8ea09888528e9a4979ea99128286b41993144bfecf.jpg",
+        "text": "$$\n\\mathrm { R - \\ R + H X \\longrightarrow R X + R - }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          359,
+          531,
+          630,
+          549
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/3370c4bafe176973ff6ed21c008bcef351e76b3a2df0052dd5c339439892d044.jpg",
+        "text": "$$\n\\mathrm { R } { \\mathrm { - O H + H X } } \\ \\longrightarrow \\mathrm { R } { \\mathrm { - X } } + \\mathrm { H } _ { 2 } \\mathrm { O }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          361,
+          557,
+          619,
+          575
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Alkyl aryl ethers are cleaved at the alkyl-oxygen bond due to the more stable aryl-oxygen bond. The reaction yields phenol and alkyl halide. ",
+        "bbox": [
+          300,
+          579,
+          895,
+          626
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/30bd1e5128144a2048469d905804317b95ec155a6d582e3c3db710c9485d4870.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          345,
+          632,
+          708,
+          704
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "Ethers with two different alkyl groups are also cleaved in the same manner. ",
+        "bbox": [
+          298,
+          711,
+          895,
+          743
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/fcdcd4e505a0d98496478a6d5cb28412aa44590a1082d78fb893e197486c12be.jpg",
+        "text": "$$\n\\mathrm { R - \\ R ^ { \\prime } + H X \\longrightarrow R - X \\ + \\ R ^ { \\prime } - }\n$$",
+        "text_format": "latex",
+        "bbox": [
+          361,
+          751,
+          647,
+          767
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The order of reactivity of hydrogen halides is as follows: $\\mathrm { H I } > \\mathrm { H B r } > \\mathrm { H C l } .$ The cleavage of ethers takes place with concentrated HI or HBr at high temperature. ",
+        "bbox": [
+          298,
+          771,
+          897,
+          821
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "discarded",
+        "text": "Z17 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          914
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 24
+      },
+      {
+        "type": "text",
+        "text": "The reaction of an ether with concentrated $\\mathrm { H I }$ starts with protonation of ether molecule. ",
+        "bbox": [
+          204,
+          117,
+          901,
+          133
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "Step 1: ",
+        "bbox": [
+          211,
+          137,
+          274,
+          151
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/55e10c3c590e364a5eafadc337d60388bd37b364f84c5a208dbf151f3dc7e0ca.jpg",
+        "text": "$$\n\\begin{array} { r } { \\underset { \\mathrm { C H _ { 3 } } \\mathrm { - } \\stackrel {  } { \\mathrm { O } } \\mathrm { - } \\mathrm { C H _ { 2 } C H _ { 3 } } \\mathrm { + H \\mathrm { - } I } } { \\overbrace { \\Longleftrightarrow } \\mathrm { C H _ { 3 } } \\mathrm { - } \\stackrel {  } { \\mathrm { O } } \\mathrm { - } \\mathrm { C H _ { 2 } C H _ { 3 } } } + \\Gamma } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          279,
+          153,
+          736,
+          195
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "The reaction takes place with HBr or HI because these reagents are sufficiently acidic. ",
+        "bbox": [
+          208,
+          205,
+          899,
+          221
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "Step 2: ",
+        "bbox": [
+          210,
+          229,
+          274,
+          243
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "Iodide is a good nucleophile. It attacks the least substituted carbon of the oxonium ion formed in step 1 and displaces an alcohol molecule by $\\mathrm { \\bf S } _ { \\mathrm { v } } 2$ mechanism. Thus, in the cleavage of mixed ethers with two different alkyl groups, the alcohol and alkyl iodide formed, depend on the nature of alkyl groups. when primary or secondary alkyl groups are present, it is the lower alkyl group that forms alkyl iodide $( \\mathrm { S } _ { \\mathrm { v } } 2$ reaction). ",
+        "bbox": [
+          208,
+          237,
+          907,
+          330
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "When HI is in excess and the reaction is carried out at high temperature, ethanol reacts with another molecule of HI and is converted to ethyl iodide. ",
+        "bbox": [
+          208,
+          399,
+          906,
+          428
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "Step 3: ",
+        "bbox": [
+          210,
+          436,
+          274,
+          450
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "However, when one of the alkyl group is a tertiary group, the halide formed is a tertiary halide. ",
+        "bbox": [
+          328,
+          556,
+          927,
+          588
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/eaa3e33bcbc7a14f468c7a742b88bb05b27bc4f4e6f2da6417d00410ac1b0bef.jpg",
+        "text": "$$\n\\begin{array} { r l r } { \\mathrm { C H _ { 3 } } } & { { } } & { \\mathrm { C H _ { 3 } } } \\\\ { \\vert \\vert } & { { } } & { \\vert } \\\\ { \\mathrm { C H _ { 3 } - C - O - C H _ { 3 } + H I } \\longrightarrow \\mathrm { C H _ { 3 } O H } + C H _ { 3 } - \\underset { \\mathrm { C H _ { 3 } } } { \\underbrace { C - I } } } \\\\ { \\vert } & { { } } & { \\vert } \\\\ { \\mathrm { C H _ { 3 } } } & { { } } & { \\mathrm { C H _ { 3 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          385,
+          593,
+          791,
+          661
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "It is because in step 2 of the reaction, the departure of leaving group $\\mathrm { ( H O - C H _ { 3 } ) }$ creates a more stable carbocation $\\mathrm { [ ( C H _ { 3 } ) _ { 3 } C ^ { + } ] }$ , and the reaction follows $\\mathbf { S } _ { \\mathrm { v } } \\mathbf { 1 }$ mechanism. ",
+        "bbox": [
+          328,
+          667,
+          927,
+          715
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "In case of anisole, methylphenyl oxonium ion, $\\mathrm { C _ { 6 } H _ { 5 } - \\underset { H } { \\dot { \\mathrm { O } } } - C H _ { 3 } }$ is formed by protonation of ether. The bond between $\\mathrm { O - C H _ { 3 } }$ is weaker than the bond between $\\mathrm { O - C _ { 6 } H _ { 5 } }$ because the carbon of phenyl group is $s p ^ { 2 }$ hybridised and there is a partial double bond character. ",
+        "bbox": [
+          626,
+          719,
+          928,
+          881
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ZIC ",
+        "bbox": [
+          100,
+          900,
+          244,
+          917
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "discarded",
+        "text": "Mechanism ",
+        "bbox": [
+          798,
+          94,
+          901,
+          112
+        ],
+        "page_idx": 25
+      },
+      {
+        "type": "text",
+        "text": "Therefore the attack by I ion breaks $\\mathrm { O - C H _ { 3 } }$ bond to form $\\mathrm { C H _ { 3 } I }$ . Phenols do not react further to give halides because the ${ s p } ^ { 2 }$ hybridised carbon of phenol cannot undergo nucleophilic substitution reaction needed for conversion to the halide. ",
+        "bbox": [
+          298,
+          79,
+          897,
+          145
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "Give the major products that are formed by heating each of the follwing Example 7.7 ethers with HI. ",
+        "bbox": [
+          92,
+          168,
+          854,
+          201
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "CH{\\$ CH3 (i) CH3-CH2-CH-CH2-O-CH2-CH3 (i) CH-CH2-CH2-O-C−CH2CH₃ CHg ",
+        "bbox": [
+          95,
+          206,
+          717,
+          274
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/7e6473456fe1e4074a466d74807544db31de5f9a07b8fb576dbde88e56e70e7a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          88,
+          274,
+          326,
+          316
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "CHg (i) CH3-CH2-CH-CH2OH + CH₃CH2I (i) CH₃CH2CH2OH + CH3CH2C−I Solution CH₃ CHg ",
+        "bbox": [
+          93,
+          327,
+          817,
+          392
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "2. Electrophilic substitution ",
+        "text_level": 1,
+        "bbox": [
+          269,
+          471,
+          552,
+          488
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "The alkoxy group (-OR) is ortho, para directing and activates the aromatic ring towards electrophilic substitution in the same way as in phenol. ",
+        "bbox": [
+          298,
+          492,
+          897,
+          540
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/b8359a86cf8e7190784f52d4498c86afe45c15ee7f14819a16e0727cb09d02be.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          305,
+          551,
+          855,
+          650
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "(i) Halogenation: Phenylalkyl ethers undergo usual halogenation in the benzene ring, e.g., anisole undergoes bromination with bromine in ethanoic acid even in the absence of iron (IIn) bromide catalyst. It is due to the activation of benzene ring by the methoxy group. Para isomer is obtained in $9 0 \\%$ yield. ",
+        "bbox": [
+          305,
+          658,
+          897,
+          741
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/b4dacaca6c67fd991a969f84a610e28e7dcd2e7e156cec0a5d0a9b677ab8f36c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          361,
+          750,
+          852,
+          875
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "discarded",
+        "text": "219 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          585,
+          900,
+          895,
+          915
+        ],
+        "page_idx": 26
+      },
+      {
+        "type": "text",
+        "text": "(üi) Friedel-Crafts reaction: Anisole undergoes Friedel-Crafts reaction, i.e., the alkyl and acyl groups are introduced at ortho and para positions by reaction with alkyl halide and acyl halide in the presence of anhydrous aluminium chloride (a Lewis acid) as catalyst. ",
+        "bbox": [
+          331,
+          79,
+          928,
+          145
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "OCH₃ OCH₃ OCH₃ CH₃ +CH,C1 Anhyd. AIC13 CS2 CH₃ 2-Methoxy- 4-Methoxytoluene toluene (Minor) (Major) OCH3 OCH₃ OCH₃ + CH,COcl Anhyd. AICl COCH3 COCH₃ Ethanoyl 2-Methoxy- 4-Methoxychloride acetophenone acetophenon (Minor) (Major) ",
+        "bbox": [
+          385,
+          154,
+          897,
+          437
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "(ii) Nitration: Anisole reacts with a mixture of concentrated sulphuric and nitric acids to yield a mixture of ortho and para nitroanisole. ",
+        "bbox": [
+          324,
+          448,
+          928,
+          482
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "OCHg OCHz OCHz H2SO4 HNO3 NO2 + - NO2 2-Nitroanisole 4-Nitroanisole (Minor) (Major) ",
+        "bbox": [
+          380,
+          489,
+          772,
+          614
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "Intext Questions ",
+        "text_level": 1,
+        "bbox": [
+          199,
+          645,
+          350,
+          667
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "7.10 Write the reactions of Williamson synthesis of 2-ethoxy-3-methylpentane starting from ethanol and 3-methylpentan-2-ol. ",
+        "bbox": [
+          203,
+          672,
+          894,
+          705
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "7.11 which of the following is an appropriate set of reactants for the preparation of 1-methoxy-4-nitrobenzene and why? ",
+        "bbox": [
+          204,
+          709,
+          895,
+          742
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/cb8362da6ade00f7cd1339d0d49282393b0fd018b1c7f79cc9473576b961140c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          262,
+          748,
+          795,
+          846
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ZZ ",
+        "bbox": [
+          100,
+          900,
+          243,
+          915
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          140,
+          632,
+          177,
+          886
+        ],
+        "page_idx": 27
+      },
+      {
+        "type": "text",
+        "text": "7.12 Predict the products of the following reactions: ",
+        "bbox": [
+          102,
+          79,
+          593,
+          96
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/2ec26a158266f4850a91d9d1ae87d73138781bd5cad5f42536bd3a84c1e848f9.jpg",
+        "text": "$$\n\\mathrm { C H } _ { 3 } - \\mathrm { C H } _ { 2 } - \\mathrm { C H } _ { 2 } - \\mathrm { O } - \\mathrm { C H } _ { 3 } + \\mathrm { H B r } \n$$",
+        "text_format": "latex",
+        "bbox": [
+          197,
+          103,
+          501,
+          122
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "OC2H5   \n(i) + HBr   \n(ii) OC2H Conc. H₂SO4 Conc. HNO3   \n(iv) (CH3 )3 C − OC2H5 HI cd:) ",
+        "bbox": [
+          156,
+          130,
+          461,
+          274
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "Alcohols and phenols are classified (i) on the basis of the number of hydroxyl groups and (ii) according to the hybridisation of the carbon atom, $s p ^ { 3 }$ or $s p ^ { 2 }$ to which the -OH group is attached. Ethers are classified on the basis of groups attached to the oxygen atom. - ",
+        "bbox": [
+          100,
+          358,
+          791,
+          415
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "Alcohols may be prepared (l1) by hydration of alkenes (i) in presence of an acid and (i) by hydroboration-oxidation reaction (2) from carbonyl compounds by (i) catalytic reduction and (i) the action of Grignard reagents. Phenols may be prepared by (1) substitution of (i) halogen atom in haloarenes and (i) sulphonic acid group in aryl sulphonic acids, by -OH group (2) by hydrolysis of diazonium salts and (3) industrially from cumene. - ",
+        "bbox": [
+          100,
+          417,
+          791,
+          503
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "Alcohols are higher boiling than other classes of compounds, namely hydrocarbons, ethers and haloalkanes of comparable molecular masses. The ability of alcohols, phenols and ethers to form intermolecular hydrogen bonding with water makes them soluble in it. ",
+        "bbox": [
+          100,
+          505,
+          791,
+          561
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "Alcohols and phenols are acidic in nature. Electron withdrawing groups in phenol increase its acidic strength and electron releasing groups decrease it. ",
+        "bbox": [
+          100,
+          562,
+          788,
+          591
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "Alcohols undergo nucleophilic substitution with hydrogen halides to yield alkyl halides. Dehydration of alcohols gives alkenes. On oxidation, primary alcohols yield aldehydes with mild oxidising agents and carboxylic acids with strong oxidising agents while secondary alcohols yield ketones. Tertiary alcohols are resistant to oxidation. ",
+        "bbox": [
+          100,
+          591,
+          791,
+          663
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "The presence of -OH group in phenols activates the aromatic ring towards electrophilic substitution and directs the incoming group to ortho and para positions due to resonance effect. Reimer-Tiemann reaction of phenol yields salicylaldehyde. In presence of sodium hydroxide, phenol generates phenoxide ion which is even more reactive than phenol. Thus, in alkaline medium, phenol undergoes Kolbe's reaction. ",
+        "bbox": [
+          98,
+          664,
+          791,
+          750
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "Ethers may be prepared by (i) dehydration of alcohols and (i williamson synthesis. The boiling points of ethers resemble those of alkanes while their solubility is comparable to those of alcohols having same molecular mass. The ${ \\mathrm { C } } { \\mathrm { - } } { \\mathrm { O } }$ bond in ethers can be cleaved by hydrogen halides. In electrophilic substitution, the alkoxy group activates the aromatic ring and directs the incoming group to ortho and para positions. ",
+        "bbox": [
+          100,
+          751,
+          791,
+          839
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "discarded",
+        "text": "Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          901,
+          895,
+          915
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "discarded",
+        "text": "Summary ",
+        "bbox": [
+          685,
+          327,
+          789,
+          352
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          809,
+          80,
+          848,
+          286
+        ],
+        "page_idx": 28
+      },
+      {
+        "type": "text",
+        "text": "7.1 Write IUPAC names of the following compounds: ",
+        "bbox": [
+          203,
+          122,
+          666,
+          139
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "CH3   \n(i) CH3 - CH - CH-C-CH3 (i) H3C −CH−CH2− CH-CH-CH2−CH₃ CH3 OH CH3 OH OHC2H   \n(ii) CH- CH-CH-CH₃ (iv) HO-CH2-CH-CH2-OH OH OH OH ",
+        "bbox": [
+          244,
+          141,
+          885,
+          256
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/569a40438ce2f551f744e3a1a086b3d3299561ac17f3a468b8ffe634a3e3806c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          250,
+          267,
+          855,
+          460
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.2 Write structures of the compounds whose IUPAc names are as follows: ",
+        "bbox": [
+          204,
+          468,
+          868,
+          483
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "(i) 2-Methylbutan-2-ol (ii) 1-Phenylpropan-2-ol (iii) 3,5-Dimethylhexane –1, 3, 5-triol (iv) 2,3 – Diethylphenol (v) 1 – Ethoxypropane (vi) 2-Ethoxy-3-methylpentane (vii) Cyclohexylmethanol (vi) 3-Cyclohexylpentan-3-0l (ix) Cyclopent-3-en-1-0l (x) 4-Chloro-3-ethylbutan-1-ol. ",
+        "bbox": [
+          237,
+          485,
+          869,
+          565
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.3 (i) Draw the structures of all isomeric alcohols of molecular formula $\\mathrm { C _ { 5 } H _ { 1 2 } O }$ and give their IUPAC names. (ii) Classify the isomers of alcohols in question 11.3 (i) as primary, secondary and tertiary alcohols. ",
+        "bbox": [
+          204,
+          570,
+          894,
+          630
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.4 Explain why propanol has higher boiling point than that of the hydrocarbon, butane? ",
+        "bbox": [
+          204,
+          635,
+          892,
+          665
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.5 Alcohols are comparatively more soluble in water than hydrocarbons o. comparable molecular masses. Explain this fact. ",
+        "bbox": [
+          206,
+          670,
+          887,
+          700
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.6 What is meant by hydroboration-oxidation reaction? Ilustrate it with an example. ",
+        "bbox": [
+          206,
+          705,
+          890,
+          721
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.7 Give the structures and IUPAC names of monohydric phenols of molecular formula, $\\mathrm { C _ { 7 } H _ { 8 } O }$ . ",
+        "bbox": [
+          204,
+          725,
+          890,
+          756
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.8 while separating a mixture of ortho and para nitrophenols by steam distillation, name the isomer which will be steam volatile. Give reason. ",
+        "bbox": [
+          206,
+          761,
+          890,
+          790
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.9 Give the equations of reactions for the preparation of phenol from cumene. ",
+        "bbox": [
+          201,
+          795,
+          890,
+          812
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.10 Write chemical reaction for the preparation of phenol from chlorobenzene. ",
+        "bbox": [
+          199,
+          816,
+          892,
+          832
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.11 Write the mechanism of hydration of ethene to yield ethanol. ",
+        "bbox": [
+          199,
+          836,
+          791,
+          853
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.12 You are given benzene, conc. $\\mathrm { H _ { 2 } S O _ { 4 } }$ and NaOH. Write the equations for the preparation of phenol using these reagents. ",
+        "bbox": [
+          196,
+          858,
+          892,
+          887
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry 2 ",
+        "bbox": [
+          100,
+          900,
+          243,
+          917
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          137,
+          116,
+          166,
+          880
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "discarded",
+        "text": "Exercises ",
+        "bbox": [
+          182,
+          80,
+          309,
+          109
+        ],
+        "page_idx": 29
+      },
+      {
+        "type": "text",
+        "text": "7.13 Show how wil you synthesise: ",
+        "bbox": [
+          118,
+          80,
+          437,
+          95
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "(i) 1-phenylethanol from a suitable alkene.   \n(ii) cyclohexylmethanol using an alkyl halide by an $\\mathrm { S } _ { \\mathrm { N } } 2$ reaction. (il pentan-1-ol using a suitable alkyl halide? ",
+        "bbox": [
+          170,
+          104,
+          743,
+          170
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.14 Give two reactions that show the acidic nature of phenol. Compare acidity of phenol with that of ethanol. ",
+        "bbox": [
+          116,
+          179,
+          815,
+          214
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.15 Explain why is ortho nitrophenol more acidic than ortho methoxyphenol ? ",
+        "bbox": [
+          112,
+          220,
+          814,
+          237
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.16 Explain how does the $- \\mathrm { O H }$ group attached to a carbon of benzene ring activate it towards electrophilic substitution? ",
+        "bbox": [
+          114,
+          244,
+          817,
+          279
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.17 Give equations of the following reactions: ",
+        "bbox": [
+          116,
+          286,
+          532,
+          302
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "(i) Oxidation of propan-1-ol with alkaline $\\mathrm { K M n O _ { 4 } }$ solution.   \n(ii) Bromine in $\\mathrm { C S _ { 2 } }$ with phenol.   \n(ii) Dilute $\\mathrm { H N O } _ { 3 }$ with phenol.   \n(iv) Treating phenol wih chloroform in presence of aqueous NaOH. ",
+        "bbox": [
+          168,
+          311,
+          751,
+          399
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.18 Explain the following with an example. ",
+        "bbox": [
+          116,
+          406,
+          510,
+          423
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "(i) Kolbe's reaction. (ii) Reimer-Tiemann reaction. (ii) Williamson ether synthesis. (iv) Unsymmetrical ether. ",
+        "bbox": [
+          170,
+          431,
+          446,
+          519
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.19 write the mechanism of acid dehydration of ethanol to yield ethene. ",
+        "bbox": [
+          112,
+          526,
+          769,
+          543
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.20 How are the following conversions carried out? ",
+        "bbox": [
+          118,
+          551,
+          586,
+          566
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "(i) Propene Propan-2-ol.   \n(ii) Benzyl chloride Benzyl alcohol.   \n(ii) Ethyl magnesium chloride Propan-1-ol.   \n(iv) Methyl magnesium bromide $ ~ 2$ -Methylpropan-2-ol. ",
+        "bbox": [
+          168,
+          573,
+          654,
+          663
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.21 Name the reagents used in the following reactions: ",
+        "bbox": [
+          119,
+          670,
+          621,
+          686
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "(i) Oxidation of a primary alcohol to carboxylic acid.   \n(ii) Oxidation of a primary alcohol to aldehyde.   \n(ii) Bromination of phenol to 2,4,6-tribromophenol.   \n(iv) Benzyl alcohol to benzoic acid.   \n(v) Dehydration of propan-2-ol to propene.   \n(vi) Butan-2-one to butan-2-ol. ",
+        "bbox": [
+          168,
+          695,
+          635,
+          830
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.22 Give reason for the higher boiling point of ethanol in comparison to methoxymethane. ",
+        "bbox": [
+          118,
+          839,
+          817,
+          872
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "discarded",
+        "text": "223 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          894,
+          915
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          838,
+          86,
+          864,
+          871
+        ],
+        "page_idx": 30
+      },
+      {
+        "type": "text",
+        "text": "7.23 Give IUPAC names of the following ethers: ",
+        "bbox": [
+          192,
+          82,
+          618,
+          98
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/55876027d38ad4250a01b0c3aa5d44a219a22daedcd483437278b51f34c00373.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          246,
+          108,
+          871,
+          228
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.24 Write the names of reagents and equations for the preparation of the follwing ethers by Williamson's synthesis: ",
+        "bbox": [
+          192,
+          235,
+          892,
+          265
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "(i) 1-Propoxypropane (ii) Ethoxybenzene (ii) 2-Methoxy-2-methylpropane (iv) 1-Methoxyethane ",
+        "bbox": [
+          239,
+          266,
+          782,
+          298
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.25 Ilustrate with examples the limitations of Williamson synthesis for the preparation of certain types of ethers. - ",
+        "bbox": [
+          196,
+          301,
+          890,
+          329
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.26 How is 1-propoxypropane synthesised from propan-l-ol? Write mechanism of this reaction. ",
+        "bbox": [
+          197,
+          332,
+          890,
+          360
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "'.27 Preparation of ethers by acid dehydration of secondary or tertiary alcohols is not a suitable method. Give reason. ",
+        "bbox": [
+          203,
+          363,
+          892,
+          392
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "8 Write the equation of the reaction of hydrogen iodide with: ",
+        "bbox": [
+          225,
+          395,
+          829,
+          409
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "(i) 1-propoxypropane (i) methoxybenzene and (ii) benzyl ethyl ether. ",
+        "bbox": [
+          203,
+          409,
+          847,
+          424
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.29 Explain the fact that in aryl alkyl ethers (i) the alkoxy group activates the benzene ring towards electrophilic substitution and (ii) it directs the incoming substituents to ortho and para positions in benzene ring. ",
+        "bbox": [
+          196,
+          427,
+          890,
+          470
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.30 Write the mechanism of the reaction of HI with methoxymethane. ",
+        "bbox": [
+          199,
+          471,
+          821,
+          487
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.31 Write equations of the following reactions: (i) Friedel-Crafts reaction $-$ alkylation of anisole. (ii) Nitration of anisole. (iii) Bromination of anisole in ethanoic acid medium. (iv) Friedel-Craft's acetylation of anisole. ",
+        "bbox": [
+          192,
+          491,
+          706,
+          570
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.32 Show how would you synthesise the following alcohols from appropriate alkenes? ",
+        "bbox": [
+          196,
+          573,
+          894,
+          602
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "(i) CH₃ OH be (i) OH OH O   \n(ii) (iv) OH   \n",
+        "bbox": [
+          244,
+          608,
+          689,
+          730
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "7.33 when 3-methylbutan-2-ol is treated with HBr, the following reaction takes place: ",
+        "bbox": [
+          194,
+          746,
+          890,
+          775
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "Give a mechanism for this reaction. ",
+        "bbox": [
+          246,
+          839,
+          562,
+          853
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "(Hint : The secondary carbocation formed in step $\\mathrm { I I }$ rearranges to a more stable tertiary carbocation by a hydride ion shift from 3rd carbon atom. ",
+        "bbox": [
+          237,
+          854,
+          892,
+          883
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ",
+        "bbox": [
+          100,
+          900,
+          243,
+          915
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+          137,
+          85,
+          166,
+          882
+        ],
+        "page_idx": 31
+      },
+      {
+        "type": "text",
+        "text": "Answers to Some Intext Guestions ",
+        "text_level": 1,
+        "bbox": [
+          326,
+          79,
+          637,
+          94
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "text",
+        "text": "7.1 Primary alcohols (i), (i),， (ii) Secondary alcohols (iv) and (v) Tertiary alcohols (vi) ",
+        "bbox": [
+          159,
+          103,
+          630,
+          159
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "text",
+        "text": "7.2 Allylic alcohols (ii) and (vi) ",
+        "bbox": [
+          157,
+          165,
+          631,
+          182
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "text",
+        "text": "7.3 (i) 4-Chloro-3-ethyl-2-(1-methylethyl)-butan-1-0l (ii) 2, 5-Dimethylhexane-1,3-diol (ii)） 3-Bromocyclohexanol (iv) Hex-1-en-3-01 (v) 2-Bromo-3-methylbut-2-en-1-0l ",
+        "bbox": [
+          156,
+          190,
+          628,
+          279
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/a0c7e0f28a534244b2437467a7b07f0f3d575d893eaff6e6810eefd7982b989d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          157,
+          292,
+          685,
+          636
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "text",
+        "text": "7.7 (i) 1-Methylcyclohexene (ii) A Mixture of but-1-ene and but-2-ene. But-2-ene is the major product formed due to rearrangement to give secondary carbocation. ",
+        "bbox": [
+          157,
+          645,
+          831,
+          715
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "equation",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/23837fd880ac4eba4d338ec44af96fd94d33923957cd2022b107d8ec18eef452.jpg",
+        "text": "$$\n\\begin{array} { r l r } & { \\cdot \\mathbf { 1 0 } \\mathrm { C H _ { \\mathrm { s } } } - \\mathrm { C H _ { \\mathrm { 2 } } } - \\mathrm { C H } - \\mathrm { C H } - \\mathrm { C H _ { \\mathrm { 3 } } } \\xrightarrow { \\mathrm { N a } } \\mathrm { C H _ { \\mathrm { 3 } } } - \\mathrm { C H _ { \\mathrm { - } } C H } _ { \\mathrm { 2 } } - \\mathrm { C H } - \\mathrm { C H } - \\mathrm { O N a } } & \\\\ & { \\stackrel { \\mathrm { I } } { \\mathrm { C H _ { \\mathrm { 3 } } } } } & { { \\mathrm { O H } } \\qquad \\mathrm { C H _ { \\mathrm { 3 } } } \\mathrm { C H _ { \\mathrm { 3 } } } } \\\\ & { \\qquad \\mathrm { C _ { \\mathrm { 2 } } H _ { \\mathrm { 5 } } O H } \\xrightarrow { \\mathrm { H B r } } \\mathrm { C _ { \\mathrm { 2 } } H _ { \\mathrm { 5 } } B r } } \\\\ & { \\qquad \\mathrm { C H _ { \\mathrm { 3 } } } - \\mathrm { C H _ { \\mathrm { 2 } } } - \\mathrm { C H } - \\mathrm { O N a } + \\mathrm { C _ { \\mathrm { 2 } } H _ { \\mathrm { 5 } } B r } \\longrightarrow \\mathrm { C H _ { \\mathrm { 3 } } } - \\mathrm { C H _ { \\mathrm { 2 } } } - \\mathrm { C H } - \\mathrm { C H } - \\mathrm { O C _ { \\mathrm { 2 } } H _ { \\mathrm {  s } } } } \\\\ & { \\qquad \\quad \\stackrel { \\mathrm { I } } { \\mathrm { C H _ { \\mathrm { 3 } } } } } & { { \\mathrm { C H _ { \\mathrm { 3 } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+          147,
+          721,
+          782,
+          860
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "text",
+        "text": "2-Ethoxy-3-methylpentane ",
+        "bbox": [
+          562,
+          862,
+          772,
+          877
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          971,
+          550,
+          984
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "discarded",
+        "text": "225 Alcohols, Phenols and Ethers ",
+        "bbox": [
+          586,
+          900,
+          895,
+          915
+        ],
+        "page_idx": 32
+      },
+      {
+        "type": "text",
+        "text": "7.11 (i) ",
+        "bbox": [
+          196,
+          80,
+          272,
+          95
+        ],
+        "page_idx": 33
+      },
+      {
+        "type": "text",
+        "text": "7.12 (i) $\\mathrm { C H _ { 3 } C H _ { 2 } C H _ { 2 } O H + C H _ { 3 } B r }$ ",
+        "bbox": [
+          197,
+          122,
+          477,
+          141
+        ],
+        "page_idx": 33
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/ebde8591ad2eccd94b58a5dfad3ad7af1ac93179ce8caa89f865180cab02ecf2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          590,
+          104,
+          805,
+          154
+        ],
+        "page_idx": 33
+      },
+      {
+        "type": "image",
+        "img_path": "/workspace/RAG-System-Chemistry/output/lech202/auto/images/819c324e76e8f6d1c311436d21706982545d6fb24fef5e4b43117a842413de7f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          244,
+          161,
+          576,
+          225
+        ],
+        "page_idx": 33
+      },
+      {
+        "type": "text",
+        "text": "(iv) $\\left( \\mathrm { C H _ { 3 } } \\right) _ { 3 } \\mathrm { C - I + C _ { 2 } H _ { 5 } O H }$ ",
+        "bbox": [
+          588,
+          190,
+          809,
+          210
+        ],
+        "page_idx": 33
+      },
+      {
+        "type": "discarded",
+        "text": "Chemistry ",
+        "bbox": [
+          102,
+          901,
+          243,
+          915
+        ],
+        "page_idx": 33
+      },
+      {
+        "type": "discarded",
+        "text": "Reprint 2025-26 ",
+        "bbox": [
+          447,
+          973,
+          550,
+          984
+        ],
+        "page_idx": 33
+      }
+    ],
+    "doc_id": "doc-19aa594b3ffdb661e455bc6c3728f5a5",
+    "mtime": 1762866555.4007585,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1762928861.8877044,
+    "cache_version": "1.0",
+    "create_time": 1762928861,
+    "update_time": 1762928861,
+    "_id": "af4974c549403f2634ab24243585de99"
   }
 }
